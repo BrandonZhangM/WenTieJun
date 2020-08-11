@@ -107,11 +107,16 @@
 
 [**全球大学-温铁军**](https://our-global-u.org/oguorg/zhs/%e6%b8%a9%e9%93%81%e5%86%9b-2/) 
 
+[**今日头条-温铁军**](https://www.toutiao.com/c/user/99711288363/)
+
+[**西瓜视频-温铁军**](https://www.ixigua.com/home/99711288363)
+
 ### :pushpin:资源列表
 
 |                                                              |                      |          |                                   |
 | ------------------------------------------------------------ | -------------------- | -------- | --------------------------------- |
 | **:sunflower:2020**                                          |                      |          |                                   |
+| [**农村空心化就是伪命题**](https://www.ixigua.com/6859264070902776331) | 温言铁语             | 西瓜视频 | :clapper::heavy_check_mark:       |
 | [**千万人待业，发展国内大循环经济就是闭关锁国？你傻不傻**](https://www.ixigua.com/6857759525752029704/) | 温言铁语             | 西瓜视频 | :clapper::heavy_check_mark:       |
 | [**疫情未平，蝗灾洪灾又起，中国的粮食安全该谁负责？**](https://www.ixigua.com/6856663335233028616/) | 温言铁语             | 西瓜视频 | :clapper::heavy_check_mark:       |
 | [**80年代中国市场体系几近崩溃，竟是因为太透明**](https://www.bilibili.com/video/BV1sp4y1v7MV) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
@@ -122,33 +127,33 @@
 | [**我去了很多发展中国家，发现了西式现代化行不通**](https://www.bilibili.com/video/BV1Si4y137NR) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
 | [**在“现代化”的光鲜背后，我们付出了什么代价？**](https://www.bilibili.com/video/BV1rD4y1m7BP) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
 | [**新冷战的前世今生**](https://www.bilibili.com/video/BV1GK4y1x7X6) | 国仁乡建             | B站      | :clapper::heavy_check_mark:       |
-| [**合村并居背后竟是“三泡危机”？**](https://www.toutiao.com/item/6834067106070266380/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**大危机之下，有点儿责任感好不好？**](https://www.toutiao.com/item/6834093753137889800/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**美国实行量化宽松救活经济，为什么世界市场通胀了？**](https://www.toutiao.com/item/6844041164639699460/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**美国在依靠什么支撑金融资本全球化？**](https://www.toutiao.com/item/6844043524694868491/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**危机是客观规律，这个世界将会发生重大改变**](https://www.toutiao.com/item/6837284512389399053/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**面对重大危机中国政府推行了哪些转型战略？**](https://www.toutiao.com/item/6835945685573960205/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**20年来中国如何从资本短缺到“三大过剩”？**](https://www.toutiao.com/item/6835945178751042051/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**合村并居背后竟是“三泡危机”？**](https://www.ixigua.com/item/6834067106070266380/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**大危机之下，有点儿责任感好不好？**](https://www.ixigua.com/item/6834093753137889800/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**美国实行量化宽松救活经济，为什么世界市场通胀了？**](https://www.ixigua.com/item/6844041164639699460/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**美国在依靠什么支撑金融资本全球化？**](https://www.ixigua.com/item/6844043524694868491/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**危机是客观规律，这个世界将会发生重大改变**](https://www.ixigua.com/item/6837284512389399053/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**面对重大危机中国政府推行了哪些转型战略？**](https://www.ixigua.com/item/6835945685573960205/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**20年来中国如何从资本短缺到“三大过剩”？**](https://www.ixigua.com/item/6835945178751042051/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
 | [**如何打破城乡二元结构，促进城乡要素流动？**](https://www.ixigua.com/6838904197241373197/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**中国是如何接盘“被转嫁”的金融资本的？**](https://www.toutiao.com/item/6844042186133078536/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**农村三级市场+绿色债券制度设计**](https://www.toutiao.com/item/6841714216118780420/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**多元社会应该百花齐放**](https://www.toutiao.com/item/6849718014556766731/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**疫情影响下如何缓解毕业生就业压力？**](https://www.toutiao.com/item/6838557122418967052/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**不要着急否定县长直播带货**](https://www.toutiao.com/item/6834065550767817219/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**勿让“美颜”影响自觉思考的能力**](https://www.toutiao.com/item/6848831588495524364/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**乡村振兴不能只让农民种地**](https://www.toutiao.com/item/6833685506874671627/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**“空心村”如何绝地重生？**](https://www.toutiao.com/item/6831171828422017548/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**全球疫情危机下的“去中国化”挑战**](https://www.toutiao.com/item/6829111934869045773/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**建国以来农民向国家贡献了多少剩余？**](https://www.toutiao.com/item/6828574302867030532/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**疫情下回看（6）**](https://www.toutiao.com/item/6802496286319706628/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**疫情下回看（5）**](https://www.toutiao.com/item/6801473178855014915/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**疫情下回看（4）**](https://www.toutiao.com/item/6800749303099818500/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**疫情下回看（3）**](https://www.toutiao.com/item/6799464585146401284/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**疫情下回看（2）**](https://www.toutiao.com/item/6799032802596618248/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**中国是如何接盘“被转嫁”的金融资本的？**](https://www.ixigua.com/item/6844042186133078536/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**农村三级市场+绿色债券制度设计**](https://www.ixigua.com/item/6841714216118780420/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**多元社会应该百花齐放**](https://www.ixigua.com/item/6849718014556766731/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**疫情影响下如何缓解毕业生就业压力？**](https://www.ixigua.com/item/6838557122418967052/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**不要着急否定县长直播带货**](https://www.ixigua.com/item/6834065550767817219/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**勿让“美颜”影响自觉思考的能力**](https://www.ixigua.com/item/6848831588495524364/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**乡村振兴不能只让农民种地**](https://www.ixigua.com/item/6833685506874671627/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**“空心村”如何绝地重生？**](https://www.ixigua.com/item/6831171828422017548/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**全球疫情危机下的“去中国化”挑战**](https://www.ixigua.com/item/6829111934869045773/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**建国以来农民向国家贡献了多少剩余？**](https://www.ixigua.com/item/6828574302867030532/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**疫情下回看（6）**](https://www.ixigua.com/item/6802496286319706628/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**疫情下回看（5）**](https://www.ixigua.com/item/6801473178855014915/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**疫情下回看（4）**](https://www.ixigua.com/item/6800749303099818500/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**疫情下回看（3）**](https://www.ixigua.com/item/6799464585146401284/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**疫情下回看（2）**](https://www.ixigua.com/item/6799032802596618248/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
 | [**疫情下回看（1）**](https://www.ixigua.com/6798510276153966606/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**疫情和全球化危机（3）**](https://www.toutiao.com/item/6796654895672852487/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**疫情与全球化危机（2）**](https://www.toutiao.com/item/6796278219688378375/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**疫情与全球化危机（1）**](https://www.toutiao.com/item/6795780348228829192/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**疫情和全球化危机（3）**](https://www.ixigua.com/item/6796654895672852487/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**疫情与全球化危机（2）**](https://www.ixigua.com/item/6796278219688378375/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**疫情与全球化危机（1）**](https://www.ixigua.com/item/6795780348228829192/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
 | [**乡村振兴的现实意义**](https://v.youku.com/v_show/id_XNDc4NjcxNTI3Mg) | 中国正在说 第二季    | 优酷     | :clapper::heavy_check_mark:       |
 | **:sunflower:2019**                                          |                      |          |                                   |
 | [**告别百年激进**](https://www.bilibili.com/video/BV1qT4y1u7qm) | 人民网公开课         | B站      | :clapper::heavy_check_mark:       |
@@ -215,8 +220,8 @@
 | [**中国经验、比较优势与高校青年参与的乡村建设（三）**](https://www.acfun.cn/v/ac10517330) | 超星Mooc             | A站      | :clapper::heavy_exclamation_mark: |
 | [**中国经验、比较优势与高校青年参与的乡村建设（四）**](https://www.acfun.cn/v/ac10517334) | 超星Mooc             | A站      | :clapper::heavy_exclamation_mark: |
 | [**全球化与中国发展战略**](https://www.ixigua.com/6795123856949379080/) | 世纪大讲堂           | 西瓜视频 | :clapper::heavy_exclamation_mark: |
-| [**城镇化与现代化1**](https://www.toutiao.com/item/6795542592030245376/) | 世纪大讲堂           | 西瓜视频 | :clapper::heavy_exclamation_mark: |
-| [**城镇化与现代化2**](https://www.toutiao.com/item/6795873416621588494/) | 世纪大讲堂           | 西瓜视频 | :clapper::heavy_exclamation_mark: |
-| [**城镇化与现代化3**](https://www.toutiao.com/item/6796221626003226638/) | 世纪大讲堂           | 西瓜视频 | :clapper::heavy_exclamation_mark: |
+| [**城镇化与现代化1**](https://www.ixigua.com/item/6795542592030245376/) | 世纪大讲堂           | 西瓜视频 | :clapper::heavy_exclamation_mark: |
+| [**城镇化与现代化2**](https://www.ixigua.com/item/6795873416621588494/) | 世纪大讲堂           | 西瓜视频 | :clapper::heavy_exclamation_mark: |
+| [**城镇化与现代化3**](https://www.ixigua.com/item/6796221626003226638/) | 世纪大讲堂           | 西瓜视频 | :clapper::heavy_exclamation_mark: |
 | [**十次危机——经济危机及其应对政策的国际比较**](https://mooc1-2.chaoxing.com/course/206199750.html) | 超星Mooc             | 超星     | :clapper::heavy_exclamation_mark: |
 | [**新农村建设**](http://tv.cctv.com/2017/09/13/VIDEk91RnrednVb3kR63i0I0170913.shtml) | 中国经济大讲堂       | CCTV     | :clapper::heavy_exclamation_mark: |
