@@ -125,6 +125,7 @@
 | [**去依附：传统农民挽救现代化**](https://www.bilibili.com/video/BV1nt411k7ZX) | 国情讲坛             | B站      | :clapper::heavy_check_mark:       |
 | [**全球金融危机与中国战略转型**](https://www.bilibili.com/video/BV1tW41137qJ) | 未来学堂             | B站      | :musical_note::heavy_check_mark:  |
 | **:sunflower:2017**                                          |                      |          |                                   |
+| [**十次危机——经济危机及其应对政策的国际比较**](https://mooc1-2.chaoxing.com/course/206199750.html) | 超星Mooc             | 超星     | :clapper::heavy_check_mark:       |
 | [**中央一号文件和"三农"问题**](https://v.youku.com/v_show/id_XMjY0NjExMzczMg) | 中国正在说 第一季    | 优酷     | :clapper::heavy_check_mark:       |
 | [**如何直面亲人？乡土写作的困境与突破**](https://v.qq.com/x/page/j002209gr0q.html) | 新闻ING              | 腾讯     | :clapper::heavy_check_mark:       |
 | [**全球危机与中国转型**](https://v.youku.com/v_show/id_XNDczMzQxNTMzNg) | 中山讲堂             | 优酷     | :clapper::heavy_check_mark:       |
@@ -173,7 +174,6 @@
 | [**城镇化与现代化1**](https://www.ixigua.com/item/6795542592030245376/) | 世纪大讲堂           | 西瓜视频 | :clapper::heavy_exclamation_mark: |
 | [**城镇化与现代化2**](https://www.ixigua.com/item/6795873416621588494/) | 世纪大讲堂           | 西瓜视频 | :clapper::heavy_exclamation_mark: |
 | [**城镇化与现代化3**](https://www.ixigua.com/item/6796221626003226638/) | 世纪大讲堂           | 西瓜视频 | :clapper::heavy_exclamation_mark: |
-| [**十次危机——经济危机及其应对政策的国际比较**](https://mooc1-2.chaoxing.com/course/206199750.html) | 超星Mooc             | 超星     | :clapper::heavy_exclamation_mark: |
 | [**新农村建设**](http://tv.cctv.com/2017/09/13/VIDEk91RnrednVb3kR63i0I0170913.shtml) | 中国经济大讲堂       | CCTV     | :clapper::heavy_exclamation_mark: |
 
 
