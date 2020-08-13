@@ -29,61 +29,41 @@
 | 2004      | 任中国人民大学农业与农村发展学院院长                         |
 | ...       |                                                              |
 
-### :books:出版物
 
-[乡建笔记 : 新青年与乡村的生命对话](https://book.douban.com/subject/34926096/)
 
-[去依附：中国化解第一次经济危机的真实经验](https://book.douban.com/subject/34813128/)
+### :pushpin:相关论文
 
-[乡村振兴十人谈:乡村振兴战略深度解读](https://book.douban.com/subject/30519872/)
+这部分主要是与温老经历，农村政策相关的论著
 
-[中国乡村建设百年图录](https://book.douban.com/subject/30317291/)
+#### 中央农村政策研究室
 
-[中国农业的生态化转型：社会化生态农业理论与实践](https://book.douban.com/subject/27019199/)
+[“农研室”的建立——九号院里的机构改革故事之一](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201807022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjUyNzQ5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmxVcnZKSXpmTWJiRzRIOW5NcUk=)
 
-[三农与三治](https://book.douban.com/subject/26903635/)
+[“农研室”的演变——九号院里的机构改革故事之三](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201809015&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDAwNDFyQ1VSN3FmYitkc0Z5bmxVcnZCSXpmTWJiRzRIOW5NcG85RVlZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=)
 
-[居危思危 : 国家安全与乡村治理](https://book.douban.com/subject/26848656/)
+[走进九号院](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201813015&v=MDA3MDFyQ1VSN3FmYitkc0Z5bmtWN3pOSXpmTWJiRzRIOW5Ockk5RVlZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=)
 
-[告别百年激进-温铁军演讲录2004-2014（上）](https://book.douban.com/subject/26806801/)
+[九号院的“建立”与演进](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201805017&v=MjMyNjJDVVI3cWZiK2RzRnlua1VickJJemZNYmJHNEg5bk1xbzlFWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=)
 
-[八次危機 : 中國式經濟危機和應對](https://book.douban.com/subject/26207204/)
+[九号院里的“研究员”](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=FZGC201504026&v=MDQyNzQ5SFlvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtWNzNQSXpmTWJiRzRIOVRNcTQ=)
 
-[八次危机：中国的真实经验](https://book.douban.com/subject/20394150/)
+[从九号院离去](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=FZGC201503032&v=MTk1MDk5VE1ySTlHWm9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVI3cWZiK2RzRnlua1Y3ck1JemZNYmJHNEg=)
 
-[社会主义新农村的基础设施建设与管理问题研究](https://book.douban.com/subject/6744868/)
+[九号院与中国农村](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2005&filename=FZGC200509000&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzA0ODJmTWJiRzRIdFRNcG85RlpJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtWTHJCSXo=)
 
-[中国新农村建设报告](https://book.douban.com/subject/4871144/)
+[九号院诸“老”——九号院与中国农村之二](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=FZGC201008022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjQxNzg3UEl6Zk1iYkc0SDlITXA0OUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZmIrZHNGeW5rV3I=)
 
-[中国林权制度改革](https://book.douban.com/subject/4810085/)
+[从“九号院”看“农民的政治”——写在《农民的政治》出版之际](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2011&filename=FZGC201106022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzAzMDJmTWJiRzRIOURNcVk5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtXcnZCSXo=)
 
-[解读珠三角 : 广东发展模式和经济结构调整战略研究](https://book.douban.com/subject/5501580/)
+#### 杜润生
 
-[解读苏南](https://book.douban.com/subject/6510086/)
+[农村形势与流通问题_1986](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=SYJJ198608001&dbcode=CJFD&dbname=CJFD1986&v=)
 
-[“三农”问题与制度变迁](https://book.douban.com/subject/3405045/)
+[关于中国的土地改革运动_1996](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=ZGDS199606005&dbcode=CJFD&dbname=CJFD1996&v=)
 
-[进城务工百事通](https://book.douban.com/subject/1502776/)
+[建设新农村不能动摇家庭承包责任制_2006](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=ZGGG200606001&dbcode=cjfd&dbname=cjfd2006&v=)
 
-[农村基层干部管理手册](https://book.douban.com/subject/2316413/)
 
-[农村基层干部科技知识读本](https://book.douban.com/subject/2313049/)
-
-[农村基层干部法律知识读本](https://book.douban.com/subject/2312887/)
-
-[农村基层干部政策指南](https://book.douban.com/subject/2316412/)
-
-[新农村建设实践展示](https://book.douban.com/subject/1835166/)
-
-[新农村建设理论探索](https://book.douban.com/subject/1835167/)
-
-[三农问题与世纪反思](https://book.douban.com/subject/1671271/)
-
-[我们到底要什么](https://book.douban.com/subject/1083450/)
-
-[解构现代化-温铁军演讲录](https://book.douban.com/subject/1163681/)
-
-[中国农村基本经济制度研究 : “三农”问题的世纪反思](https://book.douban.com/subject/1972391/)
 
 ### :book:专栏
 
@@ -94,6 +74,8 @@
 [**乌有之乡-温铁军**](http://www.wyzxwk.com/author/c3/130.html)
 
 [**三农中国-温铁军**](http://www.snzg.cn/member1/member.php?username=%CE%C2%CC%FA%BE%FC)
+
+
 
 ### :star:主页
 
@@ -111,7 +93,9 @@
 
 [**西瓜视频-温铁军**](https://www.ixigua.com/home/99711288363)
 
-### :pushpin:资源列表
+
+
+### :zap:资源列表
 
 |                                                              |                      |          |                                   |
 | ------------------------------------------------------------ | -------------------- | -------- | --------------------------------- |
@@ -225,3 +209,74 @@
 | [**城镇化与现代化3**](https://www.ixigua.com/item/6796221626003226638/) | 世纪大讲堂           | 西瓜视频 | :clapper::heavy_exclamation_mark: |
 | [**十次危机——经济危机及其应对政策的国际比较**](https://mooc1-2.chaoxing.com/course/206199750.html) | 超星Mooc             | 超星     | :clapper::heavy_exclamation_mark: |
 | [**新农村建设**](http://tv.cctv.com/2017/09/13/VIDEk91RnrednVb3kR63i0I0170913.shtml) | 中国经济大讲堂       | CCTV     | :clapper::heavy_exclamation_mark: |
+
+
+
+### :books:出版物
+
+[乡建笔记 : 新青年与乡村的生命对话](https://book.douban.com/subject/34926096/)
+
+[去依附：中国化解第一次经济危机的真实经验](https://book.douban.com/subject/34813128/)
+
+[乡村振兴十人谈:乡村振兴战略深度解读](https://book.douban.com/subject/30519872/)
+
+[中国乡村建设百年图录](https://book.douban.com/subject/30317291/)
+
+[中国农业的生态化转型：社会化生态农业理论与实践](https://book.douban.com/subject/27019199/)
+
+[三农与三治](https://book.douban.com/subject/26903635/)
+
+[居危思危 : 国家安全与乡村治理](https://book.douban.com/subject/26848656/)
+
+[告别百年激进-温铁军演讲录2004-2014（上）](https://book.douban.com/subject/26806801/)
+
+[八次危機 : 中國式經濟危機和應對](https://book.douban.com/subject/26207204/)
+
+[八次危机：中国的真实经验](https://book.douban.com/subject/20394150/)
+
+[社会主义新农村的基础设施建设与管理问题研究](https://book.douban.com/subject/6744868/)
+
+[中国新农村建设报告](https://book.douban.com/subject/4871144/)
+
+[中国林权制度改革](https://book.douban.com/subject/4810085/)
+
+[解读珠三角 : 广东发展模式和经济结构调整战略研究](https://book.douban.com/subject/5501580/)
+
+[解读苏南](https://book.douban.com/subject/6510086/)
+
+[“三农”问题与制度变迁](https://book.douban.com/subject/3405045/)
+
+[进城务工百事通](https://book.douban.com/subject/1502776/)
+
+[农村基层干部管理手册](https://book.douban.com/subject/2316413/)
+
+[农村基层干部科技知识读本](https://book.douban.com/subject/2313049/)
+
+[农村基层干部法律知识读本](https://book.douban.com/subject/2312887/)
+
+[农村基层干部政策指南](https://book.douban.com/subject/2316412/)
+
+[新农村建设实践展示](https://book.douban.com/subject/1835166/)
+
+[新农村建设理论探索](https://book.douban.com/subject/1835167/)
+
+[三农问题与世纪反思](https://book.douban.com/subject/1671271/)
+
+[我们到底要什么](https://book.douban.com/subject/1083450/)
+
+[解构现代化-温铁军演讲录](https://book.douban.com/subject/1163681/)
+
+[中国农村基本经济制度研究 : “三农”问题的世纪反思](https://book.douban.com/subject/1972391/)
+
+
+
+### :link:参考链接
+
+[**Library Genesis**](https://libgen.lc)
+
+[**知网**](https://chn.oversea.cnki.net/)
+
+[**全国图书馆参考咨询联盟**](http://www.ucdrs.superlib.net/)	
+
+
+
