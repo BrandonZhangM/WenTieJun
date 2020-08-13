@@ -31,40 +31,6 @@
 
 
 
-### :pushpin:相关论文
-
-这部分主要是与温老经历，农村政策相关的论著
-
-#### 中央农村政策研究室
-
-[“农研室”的建立——九号院里的机构改革故事之一](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201807022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjUyNzQ5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmxVcnZKSXpmTWJiRzRIOW5NcUk=)
-
-[“农研室”的演变——九号院里的机构改革故事之三](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201809015&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDAwNDFyQ1VSN3FmYitkc0Z5bmxVcnZCSXpmTWJiRzRIOW5NcG85RVlZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=)
-
-[走进九号院](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201813015&v=MDA3MDFyQ1VSN3FmYitkc0Z5bmtWN3pOSXpmTWJiRzRIOW5Ockk5RVlZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=)
-
-[九号院的“建立”与演进](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201805017&v=MjMyNjJDVVI3cWZiK2RzRnlua1VickJJemZNYmJHNEg5bk1xbzlFWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=)
-
-[九号院里的“研究员”](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=FZGC201504026&v=MDQyNzQ5SFlvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtWNzNQSXpmTWJiRzRIOVRNcTQ=)
-
-[从九号院离去](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=FZGC201503032&v=MTk1MDk5VE1ySTlHWm9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVI3cWZiK2RzRnlua1Y3ck1JemZNYmJHNEg=)
-
-[九号院与中国农村](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2005&filename=FZGC200509000&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzA0ODJmTWJiRzRIdFRNcG85RlpJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtWTHJCSXo=)
-
-[九号院诸“老”——九号院与中国农村之二](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=FZGC201008022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjQxNzg3UEl6Zk1iYkc0SDlITXA0OUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZmIrZHNGeW5rV3I=)
-
-[从“九号院”看“农民的政治”——写在《农民的政治》出版之际](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2011&filename=FZGC201106022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzAzMDJmTWJiRzRIOURNcVk5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtXcnZCSXo=)
-
-#### 杜润生
-
-[农村形势与流通问题_1986](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=SYJJ198608001&dbcode=CJFD&dbname=CJFD1986&v=)
-
-[关于中国的土地改革运动_1996](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=ZGDS199606005&dbcode=CJFD&dbname=CJFD1996&v=)
-
-[建设新农村不能动摇家庭承包责任制_2006](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=ZGGG200606001&dbcode=cjfd&dbname=cjfd2006&v=)
-
-
-
 ### :book:专栏
 
 [**爱思想-温铁军**](http://www.aisixiang.com/thinktank/wentiejun.html)		
@@ -267,6 +233,40 @@
 [解构现代化-温铁军演讲录](https://book.douban.com/subject/1163681/)
 
 [中国农村基本经济制度研究 : “三农”问题的世纪反思](https://book.douban.com/subject/1972391/)
+
+
+
+### :pushpin:相关
+
+这部分主要是与温老经历，农村政策相关的论著
+
+1. 中央农村政策研究室
+
+[“农研室”的建立——九号院里的机构改革故事之一](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201807022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjUyNzQ5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmxVcnZKSXpmTWJiRzRIOW5NcUk=)
+
+[“农研室”的演变——九号院里的机构改革故事之三](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201809015&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDAwNDFyQ1VSN3FmYitkc0Z5bmxVcnZCSXpmTWJiRzRIOW5NcG85RVlZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=)
+
+[走进九号院](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201813015&v=MDA3MDFyQ1VSN3FmYitkc0Z5bmtWN3pOSXpmTWJiRzRIOW5Ockk5RVlZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=)
+
+[九号院的“建立”与演进](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201805017&v=MjMyNjJDVVI3cWZiK2RzRnlua1VickJJemZNYmJHNEg5bk1xbzlFWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=)
+
+[九号院里的“研究员”](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=FZGC201504026&v=MDQyNzQ5SFlvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtWNzNQSXpmTWJiRzRIOVRNcTQ=)
+
+[从九号院离去](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=FZGC201503032&v=MTk1MDk5VE1ySTlHWm9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVI3cWZiK2RzRnlua1Y3ck1JemZNYmJHNEg=)
+
+[九号院与中国农村](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2005&filename=FZGC200509000&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzA0ODJmTWJiRzRIdFRNcG85RlpJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtWTHJCSXo=)
+
+[九号院诸“老”——九号院与中国农村之二](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=FZGC201008022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjQxNzg3UEl6Zk1iYkc0SDlITXA0OUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZmIrZHNGeW5rV3I=)
+
+[从“九号院”看“农民的政治”——写在《农民的政治》出版之际](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2011&filename=FZGC201106022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzAzMDJmTWJiRzRIOURNcVk5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtXcnZCSXo=)
+
+2. 杜润生
+
+[农村形势与流通问题_1986](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=SYJJ198608001&dbcode=CJFD&dbname=CJFD1986&v=)
+
+[关于中国的土地改革运动_1996](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=ZGDS199606005&dbcode=CJFD&dbname=CJFD1996&v=)
+
+[建设新农村不能动摇家庭承包责任制_2006](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=ZGGG200606001&dbcode=cjfd&dbname=cjfd2006&v=)
 
 
 
