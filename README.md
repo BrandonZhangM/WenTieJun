@@ -8,8 +8,6 @@
 >
 > 温教授先后主持多个国家级重大、重点课题，并荣获国务院特殊津贴专家、农业部科技进步一等奖、教育部人文社科成果二等奖、北京市教育教学成果一等奖、绿色中国年度人物奖、CCTV年度经济人物奖等。著有《中国农村基本经济制度研究》、《三农问题的世纪反思》、《解构现代化》、《我们到底要什么》、《解读苏南》、《告别百年激进》、《八次危机》等。
 
-
-
 ### :surfer:经历
 
 |           |                                                              |
@@ -29,8 +27,6 @@
 | 2004      | 任中国人民大学农业与农村发展学院院长                         |
 | ...       |                                                              |
 
-
-
 ### :book:专栏
 
 [**爱思想-温铁军**](http://www.aisixiang.com/thinktank/wentiejun.html)		
@@ -40,8 +36,6 @@
 [**乌有之乡-温铁军**](http://www.wyzxwk.com/author/c3/130.html)
 
 [**三农中国-温铁军**](http://www.snzg.cn/member1/member.php?username=%CE%C2%CC%FA%BE%FC)
-
-
 
 ### :star:主页
 
@@ -59,23 +53,22 @@
 
 [**西瓜视频-温铁军**](https://www.ixigua.com/home/99711288363)
 
-
-
 ### :zap:资源列表
 
 |                                                              |                      |          |                                   |
 | ------------------------------------------------------------ | -------------------- | -------- | --------------------------------- |
 | **:sunflower:2020**                                          |                      |          |                                   |
-| [**农村空心化就是伪命题**](https://www.ixigua.com/6859264070902776331) | 温言铁语             | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**千万人待业，发展国内大循环经济就是闭关锁国？你傻不傻**](https://www.ixigua.com/6857759525752029704/) | 温言铁语             | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**疫情未平，蝗灾洪灾又起，中国的粮食安全该谁负责？**](https://www.ixigua.com/6856663335233028616/) | 温言铁语             | 西瓜视频 | :clapper::heavy_check_mark:       |
-| [**80年代中国市场体系几近崩溃，竟是因为太透明**](https://www.bilibili.com/video/BV1sp4y1v7MV) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
-| [**为什么当年中国一定要“上山下乡”？** ](https://www.bilibili.com/video/BV1iV411z7Ub) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
-| [**别学了！发达国家压根就没想教你怎么变富...**](https://www.bilibili.com/video/BV1df4y1X75H) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
-| [**在工业化的路上，中国农民究竟做出了多少牺牲？**](https://www.bilibili.com/video/BV1iT4y1j7Zs) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
-| [**想变得和美国一样现代化？先搞清楚我们中国人是谁**](https://www.bilibili.com/video/BV1Pf4y1d7o3) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
-| [**我去了很多发展中国家，发现了西式现代化行不通**](https://www.bilibili.com/video/BV1Si4y137NR) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
-| [**在“现代化”的光鲜背后，我们付出了什么代价？**](https://www.bilibili.com/video/BV1rD4y1m7BP) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
+| [**（四）中国全球化是自由市场的构建过程，你们有没有搞错？**](https://www.ixigua.com/6860362905108349452) | 温言铁语             | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**（三）农村空心化就是伪命题**](https://www.ixigua.com/6859264070902776331) | 温言铁语             | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**（二）千万人待业，发展国内大循环经济就是闭关锁国？你傻不傻**](https://www.ixigua.com/6857759525752029704/) | 温言铁语             | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**（一）疫情未平，蝗灾洪灾又起，中国的粮食安全该谁负责？**](https://www.ixigua.com/6856663335233028616/) | 温言铁语             | 西瓜视频 | :clapper::heavy_check_mark:       |
+| [**（七）80年代中国市场体系几近崩溃，竟是因为太透明**](https://www.bilibili.com/video/BV1sp4y1v7MV) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
+| [**（六）为什么当年中国一定要“上山下乡”？** ](https://www.bilibili.com/video/BV1iV411z7Ub) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
+| [**（五）别学了！发达国家压根就没想教你怎么变富...**](https://www.bilibili.com/video/BV1df4y1X75H) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
+| [**（四）在工业化的路上，中国农民究竟做出了多少牺牲？**](https://www.bilibili.com/video/BV1iT4y1j7Zs) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
+| [**（三）想变得和美国一样现代化？先搞清楚我们中国人是谁**](https://www.bilibili.com/video/BV1Pf4y1d7o3) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
+| [**（二）我去了很多发展中国家，发现了西式现代化行不通**](https://www.bilibili.com/video/BV1Si4y137NR) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
+| [**（一）在“现代化”的光鲜背后，我们付出了什么代价？**](https://www.bilibili.com/video/BV1rD4y1m7BP) | 温铁军践闻录         | B站      | :clapper::heavy_check_mark:       |
 | [**新冷战的前世今生**](https://www.bilibili.com/video/BV1GK4y1x7X6) | 国仁乡建             | B站      | :clapper::heavy_check_mark:       |
 | [**合村并居背后竟是“三泡危机”？**](https://www.ixigua.com/item/6834067106070266380/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
 | [**大危机之下，有点儿责任感好不好？**](https://www.ixigua.com/item/6834093753137889800/) | 温铁军直播           | 西瓜视频 | :clapper::heavy_check_mark:       |
@@ -176,8 +169,6 @@
 | [**城镇化与现代化3**](https://www.ixigua.com/item/6796221626003226638/) | 世纪大讲堂           | 西瓜视频 | :clapper::heavy_exclamation_mark: |
 | [**新农村建设**](http://tv.cctv.com/2017/09/13/VIDEk91RnrednVb3kR63i0I0170913.shtml) | 中国经济大讲堂       | CCTV     | :clapper::heavy_exclamation_mark: |
 
-
-
 ### :books:出版物
 
 [乡建笔记 : 新青年与乡村的生命对话](https://book.douban.com/subject/34926096/)
@@ -234,9 +225,7 @@
 
 [中国农村基本经济制度研究 : “三农”问题的世纪反思](https://book.douban.com/subject/1972391/)
 
-
-
-### :pushpin:相关
+### :pushpin:其他
 
 这部分主要是与温老经历，农村政策相关的论著
 
@@ -268,7 +257,13 @@
 
 [建设新农村不能动摇家庭承包责任制_2006](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=ZGGG200606001&dbcode=cjfd&dbname=cjfd2006&v=)
 
+3. 托马斯·皮凯蒂
 
+[21世纪资本论](https://book.douban.com/subject/25947310/) 
+
+[不平等经济学](https://book.douban.com/subject/26686542/) 
+
+[财富再分配](https://book.douban.com/subject/27032770/) 
 
 ### :link:参考链接
 
