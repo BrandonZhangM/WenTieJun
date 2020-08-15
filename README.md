@@ -237,13 +237,7 @@
 
 ### :pushpin:其他
 
-这部分主要是与温老经历，农村政策相关的论著
-
-1. 演讲
-
-[第二届南南论坛：主权外部性与币缘战略——关于发展陷阱的案例研究](https://our-global-u.org/oguorg/zhs/%e7%ac%ac%e4%ba%8c%e5%b1%8a%e5%8d%97%e5%8d%97%e8%ae%ba%e5%9d%9b/) 
-
-2. 中央农村政策研究室
+1. 中央农村政策研究室
 
 [“农研室”的建立——九号院里的机构改革故事之一](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201807022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjUyNzQ5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmxVcnZKSXpmTWJiRzRIOW5NcUk=)
 
@@ -263,7 +257,7 @@
 
 [从“九号院”看“农民的政治”——写在《农民的政治》出版之际](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2011&filename=FZGC201106022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzAzMDJmTWJiRzRIOURNcVk5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtXcnZCSXo=)
 
-3. 杜润生
+2.杜润生
 
 [农村形势与流通问题_1986](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=SYJJ198608001&dbcode=CJFD&dbname=CJFD1986&v=)
 
@@ -271,15 +265,7 @@
 
 [建设新农村不能动摇家庭承包责任制_2006](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=ZGGG200606001&dbcode=cjfd&dbname=cjfd2006&v=)
 
-4. 托马斯·皮凯蒂
-
-[21世纪资本论](https://book.douban.com/subject/25947310/) 
-
-[不平等经济学](https://book.douban.com/subject/26686542/) 
-
-[财富再分配](https://book.douban.com/subject/27032770/) 
-
-5. 萨米尔·阿明
+3.萨米尔·阿明
 
 [不平等的发展 : 论外围资本主义的社会形态](https://book.douban.com/subject/27106218/)
 
@@ -290,6 +276,26 @@
 [世界规模的积累 : 不平等理念批判](https://book.douban.com/subject/3301305/)
 
 [不平等的发展 : 经济增长与发展理论丛书](https://book.douban.com/subject/1232998/)
+
+4.伊曼纽尔·莫里斯·沃勒斯坦
+
+[现代世界体系](https://book.douban.com/subject/25763756/)
+
+[资本主义还有未来吗](https://book.douban.com/subject/25864125/)
+
+5.乔万尼·阿里吉
+
+[漫长的20世纪 : 金钱、权力与我们社会的根源](https://book.douban.com/subject/1027186/)
+
+[亚当·斯密在北京 : 21世纪的谱系](https://book.douban.com/subject/3816191/)
+
+6.托马斯·皮凯蒂
+
+[21世纪资本论](https://book.douban.com/subject/25947310/) 
+
+[不平等经济学](https://book.douban.com/subject/26686542/) 
+
+[财富再分配](https://book.douban.com/subject/27032770/) 
 
 ### :link:参考链接
 
