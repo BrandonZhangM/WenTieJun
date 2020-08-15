@@ -279,6 +279,18 @@
 
 [财富再分配](https://book.douban.com/subject/27032770/) 
 
+5. 萨米尔·阿明
+
+[不平等的发展 : 论外围资本主义的社会形态](https://book.douban.com/subject/27106218/)
+
+[世界规模的积累 : 欠发达理论批判](https://book.douban.com/subject/27024181/)
+
+[全球化时代的资本主义 : 对当代社会的管理](https://book.douban.com/subject/24524648/)
+
+[世界规模的积累 : 不平等理念批判](https://book.douban.com/subject/3301305/)
+
+[不平等的发展 : 经济增长与发展理论丛书](https://book.douban.com/subject/1232998/)
+
 ### :link:参考链接
 
 [**Library Genesis**](https://libgen.lc)
