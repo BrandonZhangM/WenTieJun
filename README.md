@@ -20,31 +20,11 @@
 
 ### :book:专栏
 
-[**观察者网-温铁军**](https://www.guancha.cn/WenTieJun)
-
-[**爱思想-温铁军**](http://www.aisixiang.com/thinktank/wentiejun.html)		
-
-[**察网-温铁军**](http://www.cwzg.cn/column/wentiejun.html)		
-
-[**乌有之乡-温铁军**](http://www.wyzxwk.com/author/c3/130.html)
-
-[**三农中国-温铁军**](http://www.snzg.cn/member1/member.php?username=%CE%C2%CC%FA%BE%FC)
+[**观察者网-温铁军**](https://www.guancha.cn/WenTieJun)**|**[**爱思想-温铁军**](http://www.aisixiang.com/thinktank/wentiejun.html)**|**[**察网-温铁军**](http://www.cwzg.cn/column/wentiejun.html)**|**[**乌有之乡-温铁军**](http://www.wyzxwk.com/author/c3/130.html)**|**[**三农中国-温铁军**](http://www.snzg.cn/member1/member.php?username=%CE%C2%CC%FA%BE%FC)
 
 ### :star:主页
 
-[**优酷-乡村建设研究**](https://i.youku.com/ruralstudies)		
-
-[**官网-乡村建设研究院**](http://www.ruralstudies.com/)		
-
-[**B站-国仁乡建**](https://space.bilibili.com/492753564)	
-
-[**B站-乡村建设研究**](https://space.bilibili.com/531452481)		
-
-[**全球大学-温铁军**](https://our-global-u.org/oguorg/zhs/%e6%b8%a9%e9%93%81%e5%86%9b-2/) 
-
-[**今日头条-温铁军**](https://www.toutiao.com/c/user/99711288363/)
-
-[**西瓜视频-温铁军**](https://www.ixigua.com/home/99711288363)
+[**优酷-乡村建设研究**](https://i.youku.com/ruralstudies)**|**[**官网-乡村建设研究院**](http://www.ruralstudies.com/)**|**[**B站-国仁乡建**](https://space.bilibili.com/492753564)**|**[**B站-乡村建设研究**](https://space.bilibili.com/531452481)**|**[**全球大学-温铁军**](https://our-global-u.org/oguorg/zhs/%e6%b8%a9%e9%93%81%e5%86%9b-2/)**|**[**今日头条-温铁军**](https://www.toutiao.com/c/user/99711288363/)**|**[**西瓜视频-温铁军**](https://www.ixigua.com/home/99711288363)
 
 ### :zap:资源列表
 
