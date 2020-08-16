@@ -56,7 +56,7 @@
 | [**新农夫·新城乡**](https://v.youku.com/v_show/id_XNTQ0NTQxNzk2.html) | 第三届CSA大会            | 优酷     | :clapper::heavy_check_mark:       |
 | **:sunflower:2012**                                          |                          |          |                                   |
 | [**从比较研究的视角来看重庆的客观经验**](https://www.youtube.com/watch?v=sEAE_0ddgLE) | 全球大学                 | Youtube  | :musical_note::heavy_check_mark:  |
-| [**中国百年乡村建设——在乡土实践中渐进地认识客观世界（1-5）**](http://mooc.chaoxing.com/nodedetailcontroller/visitnodedetail?knowledgeId=865300) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:       |
+| [**中国百年乡村建设—在乡土实践中渐进地认识客观世界（1-5）**](http://mooc.chaoxing.com/nodedetailcontroller/visitnodedetail?knowledgeId=865300) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:       |
 | [**全球经济危机与中国可持续发展（1-2）**](http://mooc1.chaoxing.com/course/1410333.html) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:       |
 | [**（一）城镇化与现代化**](https://www.ixigua.com/6795542592030245376) | 世纪大讲堂               | 西瓜视频 | :clapper::heavy_check_mark:       |
 | [**（二）城镇化与现代化**](https://www.ixigua.com/6795873416621588494) | 世纪大讲堂               | 西瓜视频 | :clapper::heavy_check_mark:       |
@@ -64,19 +64,19 @@
 | **:sunflower:2013**                                          |                          |          |                                   |
 | [**中国经济八次危机及其软着陆**](https://www.bilibili.com/video/BV1ox411P7YH) | 世纪大讲堂               | B站      | :clapper::heavy_check_mark:       |
 | [**生态文明与社会进步（1-5）**](http://mooc1.chaoxing.com/course/85204.html) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:       |
-| [**八次危机——中国的真实经验**](https://v.qq.com/x/cover/7zt740avrgy569w/e00128o3qeq.html) | 腾讯微讲堂               | 腾讯     | :clapper::heavy_check_mark:       |
-| [**八次危机——中国的真实经验**](http://m.tingdongfang.com/book17846) | 腾讯微讲堂               | 听东方   | :musical_note::heavy_check_mark:  |
+| [**八次危机—中国的真实经验**](https://v.qq.com/x/cover/7zt740avrgy569w/e00128o3qeq.html) | 腾讯微讲堂               | 腾讯     | :clapper::heavy_check_mark:       |
+| [**八次危机—中国的真实经验**](http://m.tingdongfang.com/book17846) | 腾讯微讲堂               | 听东方   | :musical_note::heavy_check_mark:  |
 | [**中国八次危机解读**](https://v.youku.com/v_show/id_XNDY5NzgzMjc0MA) | 中山讲堂                 | 优酷     | :clapper::heavy_check_mark:       |
 | [**西方推量化宽松悄悄打响“金融战”**](http://phtv.ifeng.com/program/sjdjt/detail_2013_08/05/28279959_0.shtml) | 世纪大讲堂               | 凤凰     | :clapper::heavy_check_mark:       |
 | [**全球危机与中国应对**](https://v.youku.com/v_show/id_XNjQ5ODMzODky.html) | 香港大学（上海）         | 优酷     | :clapper::heavy_check_mark:       |
-| [**激进与改良——民国乡村建设理论实践的现实启示**](http://blog.sciencenet.cn/blog-1557-810626.html) | 《开放时代》             | 科学网   | :pencil::heavy_check_mark:        |
+| [**激进与改良—民国乡村建设理论实践的现实启示**](http://blog.sciencenet.cn/blog-1557-810626.html) | 《开放时代》             | 科学网   | :pencil::heavy_check_mark:        |
 | **:sunflower:2014**                                          |                          |          |                                   |
 | [**浪费型消费很普遍 粮食安全难追责**](http://phtv.ifeng.com/program/xwjrt/detail_2014_02/22/34075619_0.shtml) | 新闻今日谈               | 凤凰     | :clapper::heavy_check_mark:       |
-| [**八次危机——中国的真实经验**](https://v.qq.com/x/page/w01337w02v2.html) | 超星Mooc                 | 腾讯     | :clapper::heavy_check_mark:       |
+| [**八次危机—中国的真实经验**](https://v.qq.com/x/page/w01337w02v2.html) | 超星Mooc                 | 腾讯     | :clapper::heavy_check_mark:       |
 | [**生态化整合与社会创新**](https://www.bilibili.com/video/av68916872/) | 西南大学含弘大讲堂       | B站      | :musical_note::heavy_check_mark:  |
 | [**中国生态文明建设与可持续发展的现状与挑战**](http://irrc.swu.edu.cn/s/irrc/index21/20160503/936513.html) | 哈佛                     |          | :x:                               |
 | [**美国世界金融地位是怎么来的**](https://www.bilibili.com/video/BV1ys411C75j) | 2014人间思想论坛         | B站      | :clapper::heavy_check_mark:       |
-| [**新农人的乌托邦实践——城市农园发展的启示**](https://v.youku.com/v_show/id_XODMxNDA4MzA4.html) | 中国国家地理大讲堂       | 优酷     | :clapper::heavy_check_mark:       |
+| [**新农人的乌托邦实践—城市农园发展的启示**](https://v.youku.com/v_show/id_XODMxNDA4MzA4.html) | 中国国家地理大讲堂       | 优酷     | :clapper::heavy_check_mark:       |
 | **:sunflower:2015**                                          |                          |          |                                   |
 | [**中国的道路自信**](https://music.163.com/#/program?id=909486570) |                          | 网易云   | :musical_note::heavy_check_mark:  |
 | [**“三农”问题与我们的责任**](https://v.youku.com/v_show/id_XNzM4NzU2NzY) |                          | 优酷     | :clapper::heavy_check_mark:       |
@@ -90,7 +90,7 @@
 | [**中国智慧 养生农业**](https://v.qq.com/x/page/b0357l13mon.html) | 第八届CSA大会            | 腾讯     | :clapper::heavy_check_mark:       |
 | 金融全球化成本向新兴国家转嫁与中国生态文明战略               | 中国人民大学             |          | :x:                               |
 | **:sunflower:2017**                                          |                          |          |                                   |
-| [**十次危机——经济危机及其应对政策的国际比较**](https://mooc1-2.chaoxing.com/course/206199750.html) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:       |
+| [**十次危机—经济危机及其应对政策的国际比较**](https://mooc1-2.chaoxing.com/course/206199750.html) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:       |
 | [**中央一号文件和"三农"问题**](https://v.youku.com/v_show/id_XMjY0NjExMzczMg) | 中国正在说 第一季        | 优酷     | :clapper::heavy_check_mark:       |
 | [**如何直面亲人？乡土写作的困境与突破**](https://v.qq.com/x/page/j002209gr0q.html) | 新闻ING                  | 腾讯     | :clapper::heavy_check_mark:       |
 | [**全球危机与中国转型**](https://v.youku.com/v_show/id_XNDczMzQxNTMzNg) | 中山讲堂                 | 优酷     | :clapper::heavy_check_mark:       |
@@ -221,9 +221,9 @@
 
 1.中央农村政策研究室
 
-[“农研室”的建立——九号院里的机构改革故事之一](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201807022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjUyNzQ5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmxVcnZKSXpmTWJiRzRIOW5NcUk=)
+[“农研室”的建立—九号院里的机构改革故事之一](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201807022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjUyNzQ5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmxVcnZKSXpmTWJiRzRIOW5NcUk=)
 
-[“农研室”的演变——九号院里的机构改革故事之三](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201809015&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDAwNDFyQ1VSN3FmYitkc0Z5bmxVcnZCSXpmTWJiRzRIOW5NcG85RVlZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=)
+[“农研室”的演变—九号院里的机构改革故事之三](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201809015&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDAwNDFyQ1VSN3FmYitkc0Z5bmxVcnZCSXpmTWJiRzRIOW5NcG85RVlZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=)
 
 [九号院的“建立”与演进](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201805017&v=MjMyNjJDVVI3cWZiK2RzRnlua1VickJJemZNYmJHNEg5bk1xbzlFWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=)
 
@@ -231,9 +231,9 @@
 
 [九号院与中国农村](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2005&filename=FZGC200509000&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzA0ODJmTWJiRzRIdFRNcG85RlpJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtWTHJCSXo=)
 
-[九号院诸“老”——九号院与中国农村之二](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=FZGC201008022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjQxNzg3UEl6Zk1iYkc0SDlITXA0OUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZmIrZHNGeW5rV3I=)
+[九号院诸“老”—九号院与中国农村之二](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=FZGC201008022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjQxNzg3UEl6Zk1iYkc0SDlITXA0OUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZmIrZHNGeW5rV3I=)
 
-[从“九号院”看“农民的政治”——写在《农民的政治》出版之际](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2011&filename=FZGC201106022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzAzMDJmTWJiRzRIOURNcVk5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtXcnZCSXo=)
+[从“九号院”看“农民的政治”—写在《农民的政治》出版之际](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2011&filename=FZGC201106022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzAzMDJmTWJiRzRIOURNcVk5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtXcnZCSXo=)
 
 2.杜润生
 
