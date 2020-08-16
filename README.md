@@ -161,9 +161,9 @@
 
 ### :books:出版物
 
-[乡建笔记 : 新青年与乡村的生命对话](https://book.douban.com/subject/34926096/)
-
 [去依附：中国化解第一次经济危机的真实经验](https://book.douban.com/subject/34813128/)
+
+[乡建笔记 : 新青年与乡村的生命对话](https://book.douban.com/subject/34926096/)
 
 [乡村振兴十人谈:乡村振兴战略深度解读](https://book.douban.com/subject/30519872/)
 
