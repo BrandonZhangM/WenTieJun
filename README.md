@@ -30,136 +30,136 @@
 
 ### :zap:资源列表
 
-| 主题                                                         | 栏目                     | 来源     | 状态                             | 入档时间  |
-| ------------------------------------------------------------ | ------------------------ | -------- | -------------------------------- | --------- |
-| **:sunflower:2001**                                          |                          |          |                                  |           |
-| [**世纪之交的三农问题**](https://v.youku.com/v_show/id_XMzA0NjQ5MTc0OA) | 世纪大讲堂               | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**世纪之交的三农问题**](http://m.tingdongfang.com/book5340p2) | 世纪大讲堂               | 听东方   | :musical_note::heavy_check_mark: | 2020/8/17 |
-| **:sunflower:2005**                                          |                          |          |                                  |           |
-| [**新农村建设**](http://tv.cctv.com/2017/09/13/VIDEk91RnrednVb3kR63i0I0170913.shtml) | 中国经济大讲堂           | CCTV     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**被起诉的杂志社**](http://www.cctv.com/news/china/20050323/100022.shtml) | 新闻调查                 | CCTV     | :pencil::heavy_check_mark:       | 2020/8/17 |
-| [**“三农”问题与我们的责任**](https://v.youku.com/v_show/id_XNzM4NzU2NzY) | 浙江图书馆               | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| **:sunflower:2006**                                          |                          |          |                                  |           |
-| [**“三农”问题与我们的责任**](https://v.youku.com/v_show/id_XNzM4NzU2NzY) | 浙江人文大讲堂           | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| **:sunflower:2007**                                          |                          |          |                                  |           |
-| [**新乡村试验**](https://v.youku.com/v_show/id_XMjY1MjEyMDc3Mg) | 面对面                   | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| **:sunflower:2009**                                          |                          |          |                                  |           |
-| [**（1）中国经验、比较优势与高校青年参与的乡村建设**](https://www.acfun.cn/v/ac10517323) | 超星Mooc                 | A站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（2）中国经验、比较优势与高校青年参与的乡村建设**](https://www.acfun.cn/v/ac10517329) | 超星Mooc                 | A站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（3）中国经验、比较优势与高校青年参与的乡村建设**](https://www.acfun.cn/v/ac10517330) | 超星Mooc                 | A站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（4）中国经验、比较优势与高校青年参与的乡村建设**](https://www.acfun.cn/v/ac10517334) | 超星Mooc                 | A站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| **:sunflower:2010**                                          |                          |          |                                  |           |
-| [**胶片里的乡土中国**](http://tv.cctv.com/2012/12/16/VIDE1355590636302637.shtml) | CCTV                     | CCTV     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| **:sunflower:2011**                                          |                          |          |                                  |           |
-| [**中国的三农问题与三治问题**](https://v.youku.com/v_show/id_XMTI5ODE0Mjc2MA) | 超星Mooc                 | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**全球危机代价转移与草根社会承载**](https://v.youku.com/v_show/id_XNDAwMDM5NjM3Mg) | 首图讲坛                 | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**生态文明与战略调整（1-4）**](http://mooc1.chaoxing.com/course/136232.html) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**新农夫·新城乡**](https://v.youku.com/v_show/id_XNTQ0NTQxNzk2.html) | 第三届CSA大会            | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| **:sunflower:2012**                                          |                          |          |                                  |           |
-| [**从比较研究的视角来看重庆的客观经验**](https://www.youtube.com/watch?v=sEAE_0ddgLE) | 全球大学                 | Youtube  | :musical_note::heavy_check_mark: | 2020/8/17 |
-| [**在乡土实践中渐进地认识客观世界（1-5）**](http://mooc.chaoxing.com/nodedetailcontroller/visitnodedetail?knowledgeId=865300) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**全球经济危机与中国可持续发展（1-2）**](http://mooc1.chaoxing.com/course/1410333.html) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（1）城镇化与现代化**](https://www.ixigua.com/6795542592030245376) | 世纪大讲堂               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（2）城镇化与现代化**](https://www.ixigua.com/6795873416621588494) | 世纪大讲堂               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（3）城镇化与现代化**](https://www.ixigua.com/item/6796221626003226638/) | 世纪大讲堂               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| **:sunflower:2013**                                          |                          |          |                                  |           |
-| [**中国经济八次危机及其软着陆**](https://www.bilibili.com/video/BV1ox411P7YH) | 世纪大讲堂               | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**生态文明与社会进步（1-5）**](http://mooc1.chaoxing.com/course/85204.html) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**八次危机-中国的真实经验**](https://v.qq.com/x/cover/7zt740avrgy569w/e00128o3qeq.html) | 腾讯微讲堂               | 腾讯     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**八次危机-中国的真实经验**](http://m.tingdongfang.com/book17846) | 腾讯微讲堂               | 听东方   | :musical_note::heavy_check_mark: | 2020/8/17 |
-| [**中国八次危机解读**](https://v.youku.com/v_show/id_XNDY5NzgzMjc0MA) | 中山讲堂                 | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**西方推量化宽松悄悄打响“金融战”**](http://phtv.ifeng.com/program/sjdjt/detail_2013_08/05/28279959_0.shtml) | 世纪大讲堂               | 凤凰     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**全球危机与中国应对**](https://v.youku.com/v_show/id_XNjQ5ODMzODky.html) | 香港大学（上海）         | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**激进与改良-民国乡村建设理论实践的现实启示**](http://blog.sciencenet.cn/blog-1557-810626.html) | 《开放时代》             | 科学网   | :pencil::heavy_check_mark:       | 2020/8/17 |
-| **:sunflower:2014**                                          |                          |          |                                  |           |
-| [**浪费型消费很普遍 粮食安全难追责**](http://phtv.ifeng.com/program/xwjrt/detail_2014_02/22/34075619_0.shtml) | 新闻今日谈               | 凤凰     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**八次危机-中国的真实经验**](https://v.qq.com/x/page/w01337w02v2.html) | 超星Mooc                 | 腾讯     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**生态化整合与社会创新**](https://www.bilibili.com/video/av68916872/) | 西南大学含弘大讲堂       | B站      | :musical_note::heavy_check_mark: | 2020/8/17 |
-| [**中国生态文明建设与可持续发展的现状与挑战**](http://irrc.swu.edu.cn/s/irrc/index21/20160503/936513.html) | 哈佛                     | 西南大学 | :pencil::heavy_check_mark:       | 2020/8/17 |
-| [**美国世界金融地位是怎么来的**](https://www.bilibili.com/video/BV1ys411C75j) | 2014人间思想论坛         | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**新农人的乌托邦实践-城市农园发展的启示**](https://v.youku.com/v_show/id_XODMxNDA4MzA4.html) | 中国国家地理大讲堂       | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| **:sunflower:2015**                                          |                          |          |                                  |           |
-| [**中国的道路自信**](https://music.163.com/#/program?id=909486570) |                          | 网易云   | :musical_note::heavy_check_mark: | 2020/8/17 |
-| [**“十三五”五大关键词助力农业3.0发展**](https://v.qq.com/x/page/x0314maln61.html) | 宣讲家网                 | 腾讯     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**生态农业与乡村建设**](http://www.iqiyi.com/w_19rub1lykp.html) | 第七届CSA大会            | 爱奇艺   | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**有些转基因科学家实质就是资本家**](http://blog.sciencenet.cn/blog-413-1239645.html) | 九三学社中央转基因调研会 | 科学网   | :pencil::heavy_check_mark:       | 2020/8/17 |
-| **:sunflower:2016**                                          |                          |          |                                  |           |
-| [**人民币"入篮"维护货币主权**](https://v.youku.com/v_show/id_XMTg0NjQxNDg0OA) | 中国正在说 第一季        | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**Political and Economic Challenges for China**](https://www.youtube.com/watch?v=zuN7DNgNhj4) | 第三届南南论坛           | Youtube  | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**新土改与新型城镇化**](https://www.acfun.cn/v/ac11607191)  | 西南大学                 | A站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**中国智慧 养生农业**](https://v.qq.com/x/page/b0357l13mon.html) | 第八届CSA大会            | 腾讯     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**金融全球化成本向新兴国家转嫁与中国生态文明战略**](http://book.ifeng.com/a/20160602/19538_0.shtml) | 中信大讲堂               | 凤凰     | :pencil::heavy_check_mark:       | 2020/8/17 |
-| **:sunflower:2017**                                          |                          |          |                                  |           |
-| [**十次危机-经济危机及其应对政策的国际比较**](https://mooc1-2.chaoxing.com/course/206199750.html) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**中央一号文件和"三农"问题**](https://v.youku.com/v_show/id_XMjY0NjExMzczMg) | 中国正在说 第一季        | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**如何直面亲人？乡土写作的困境与突破**](https://v.qq.com/x/page/j002209gr0q.html) | 新闻ING                  | 腾讯     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**全球危机与中国转型**](https://v.youku.com/v_show/id_XNDczMzQxNTMzNg) | 中山讲堂                 | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**全球金融化危机与客观演变规律**](https://www.bilibili.com/video/BV14x411Y7Ni) | 香港大学                 | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**Regional Politics and Economic Alliances**](https://www.youtube.com/watch?v=R4JEoeleAbw) | 第四届南南论坛           | Youtube  | :clapper::heavy_check_mark:      | 2020/8/17 |
-| **:sunflower:2018**                                          |                          |          |                                  |           |
-| [**多样化农村发展是未来发展广阔的领域**](https://www.iqiyi.com/v_19rr61xdvw.html) | 舍得智慧讲堂 第二季      | 爱奇艺   | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**老一辈革命家的经验引导当今乡村建设的进步**](https://www.iqiyi.com/v_19rr6fumtc.html) | 舍得智慧讲堂 第二季      | 爱奇艺   | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**另类政治经济范式**](https://www.bilibili.com/video/av42211856/) | 第五届南南论坛           | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**Strategic Transformation of Ecological Civilization and Rural Revitalization**](https://www.youtube.com/watch?v=sWf8_hN1tIg) | 第五届南南论坛           | Youtube  | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**全球农业经营大趋势**](https://www.bilibili.com/video/BV1pt41167BL) |                          | B站      | :musical_note::heavy_check_mark: | 2020/8/17 |
-| [**去依附：传统农民挽救现代化**](https://www.bilibili.com/video/BV1nt411k7ZX) | 国情讲坛                 | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**全球金融危机与中国战略转型**](https://www.bilibili.com/video/BV1tW41137qJ) | 未来学堂                 | B站      | :musical_note::heavy_check_mark: | 2020/8/17 |
-| **:sunflower:2019**                                          |                          |          |                                  |           |
-| [**乡村振兴的关键-生态产业化与产业生态化**](https://www.bilibili.com/video/BV1Mt411a7CX) | 新时代学习大讲堂         | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**告别百年激进**](https://www.bilibili.com/video/BV1qT4y1u7qm) | 人民网公开课             | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**乡村振兴的关键--生态资源产业化及其资本深化**](https://www.bilibili.com/video/BV1bA411q7vW) | 国仁乡建                 | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**生态文明转型与乡村振兴战略**](https://www.bilibili.com/video/BV1YT4y1u7q7) | 国仁乡建                 | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**在座的年轻人可能不知道91年的中国多糟糕，但为什么没崩溃呢？**](https://www.bilibili.com/video/BV1oE411q7Q5) | 观学院                   | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**中国要如何克服当下的全球化危机？**](https://www.bilibili.com/video/BV1ZE411i7V1) | 观学院                   | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**全球化危机与中国生态文明战略转型**](https://v.youku.com/v_show/id_XNDEzOTczOTE4NA) | 浙江工商大学             | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**全球危机与中国战略转型（1）**](https://music.163.com/#/program?id=2061617111) | 乡村振兴大讲堂           | 网易云   | :musical_note::heavy_check_mark: | 2020/8/17 |
-| [**全球危机与中国战略转型（2）**](https://music.163.com/#/program?id=2061617110) | 乡村振兴大讲堂           | 网易云   | :musical_note::heavy_check_mark: | 2020/8/17 |
-| [**乡土中国的七十年变迁**](https://v.qq.com/x/page/f3019pa7jj5.html) | 文华讲堂                 | 腾讯     | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**《去依附》新书讲座**](https://www.bilibili.com/video/BV1vJ411s7jy) |                          | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**生态文明战略下的乡村振兴与在地化知识重构**](https://www.bilibili.com/video/BV18b411j76g) | 首届文化振兴乡村峰会     | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**China: Trajectory of 70 Years**](https://www.youtube.com/watch?v=ibVQ18SXDrQ) | 第六届南南论坛           | Youtube  | :clapper::heavy_check_mark:      | 2020/8/17 |
-| **:sunflower:2020**                                          |                          |          |                                  |           |
-| [**“新冷战”之下，重新审视土地与文明**](https://www.bilibili.com/video/BV17v411i7tz) | 观视频工作室             | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（4）回顾全球化进化史，中国竟是这样入局的？**](https://www.ixigua.com/6860661058281931276) | 温言铁语                 | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（3）农村空心化就是伪命题**](https://www.ixigua.com/6859264070902776331) | 温言铁语                 | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（2）发展国内大循环经济就是闭关锁国？你傻不傻**](https://www.ixigua.com/6857759525752029704/) | 温言铁语                 | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（1）疫情未平，蝗灾洪灾又起，中国的粮食安全该谁负责？**](https://www.ixigua.com/6856663335233028616/) | 温言铁语                 | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（7）80年代中国市场体系几近崩溃，竟是因为太透明**](https://www.bilibili.com/video/BV1sp4y1v7MV) | 温铁军践闻录             | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（6）为什么当年中国一定要“上山下乡”？** ](https://www.bilibili.com/video/BV1iV411z7Ub) | 温铁军践闻录             | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（5）别学了！发达国家压根就没想教你怎么变富...**](https://www.bilibili.com/video/BV1df4y1X75H) | 温铁军践闻录             | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（4）在工业化的路上，中国农民究竟做出了多少牺牲？**](https://www.bilibili.com/video/BV1iT4y1j7Zs) | 温铁军践闻录             | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（3）想变得和美国一样现代化？先搞清楚我们中国人是谁**](https://www.bilibili.com/video/BV1Pf4y1d7o3) | 温铁军践闻录             | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（2）我去了很多发展中国家，发现了西式现代化行不通**](https://www.bilibili.com/video/BV1Si4y137NR) | 温铁军践闻录             | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（1）在“现代化”的光鲜背后，我们付出了什么代价？**](https://www.bilibili.com/video/BV1rD4y1m7BP) | 温铁军践闻录             | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**新冷战的前世今生**](https://www.bilibili.com/video/BV1GK4y1x7X6) | 国仁乡建                 | B站      | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**合村并居背后竟是“三泡危机”？**](https://www.ixigua.com/item/6834067106070266380/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**大危机之下，有点儿责任感好不好？**](https://www.ixigua.com/item/6834093753137889800/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**美国实行量化宽松救活经济，为什么世界市场通胀了？**](https://www.ixigua.com/item/6844041164639699460/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**美国在依靠什么支撑金融资本全球化？**](https://www.ixigua.com/item/6844043524694868491/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**危机是客观规律，这个世界将会发生重大改变**](https://www.ixigua.com/item/6837284512389399053/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**面对重大危机中国政府推行了哪些转型战略？**](https://www.ixigua.com/item/6835945685573960205/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**20年来中国如何从资本短缺到“三大过剩”？**](https://www.ixigua.com/item/6835945178751042051/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**如何打破城乡二元结构，促进城乡要素流动？**](https://www.ixigua.com/6838904197241373197/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**中国是如何接盘“被转嫁”的金融资本的？**](https://www.ixigua.com/item/6844042186133078536/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**农村三级市场+绿色债券制度设计**](https://www.ixigua.com/item/6841714216118780420/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**多元社会应该百花齐放**](https://www.ixigua.com/item/6849718014556766731/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**疫情影响下如何缓解毕业生就业压力？**](https://www.ixigua.com/item/6838557122418967052/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**不要着急否定县长直播带货**](https://www.ixigua.com/item/6834065550767817219/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**勿让“美颜”影响自觉思考的能力**](https://www.ixigua.com/item/6848831588495524364/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**乡村振兴不能只让农民种地**](https://www.ixigua.com/item/6833685506874671627/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**“空心村”如何绝地重生？**](https://www.ixigua.com/item/6831171828422017548/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**全球疫情危机下的“去中国化”挑战**](https://www.ixigua.com/item/6829111934869045773/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**建国以来农民向国家贡献了多少剩余？**](https://www.ixigua.com/item/6828574302867030532/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（6）疫情下回看**](https://www.ixigua.com/item/6802496286319706628/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（5）疫情下回看**](https://www.ixigua.com/item/6801473178855014915/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（4）疫情下回看**](https://www.ixigua.com/item/6800749303099818500/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（3）疫情下回看**](https://www.ixigua.com/item/6799464585146401284/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（2）疫情下回看**](https://www.ixigua.com/item/6799032802596618248/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（1）疫情下回看**](https://www.ixigua.com/6798510276153966606/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（3）疫情和全球化危机**](https://www.ixigua.com/item/6796654895672852487/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（2）疫情与全球化危机**](https://www.ixigua.com/item/6796278219688378375/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**（1）疫情与全球化危机**](https://www.ixigua.com/item/6795780348228829192/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 2020/8/17 |
-| [**乡村振兴的现实意义**](https://v.youku.com/v_show/id_XNDc4NjcxNTI3Mg) | 中国正在说 第二季        | 优酷     | :clapper::heavy_check_mark:      | 2020/8/17 |
+| 主题                                                         | 栏目                     | 来源     | 状态                             | 入档时间 |
+| ------------------------------------------------------------ | ------------------------ | -------- | -------------------------------- | -------- |
+| **:sunflower:2001**                                          |                          |          |                                  |          |
+| [**世纪之交的三农问题**](https://v.youku.com/v_show/id_XMzA0NjQ5MTc0OA) | 世纪大讲堂               | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**世纪之交的三农问题**](http://m.tingdongfang.com/book5340p2) | 世纪大讲堂               | 听东方   | :musical_note::heavy_check_mark: | 20/8/17  |
+| **:sunflower:2005**                                          |                          |          |                                  |          |
+| [**新农村建设**](http://tv.cctv.com/2017/09/13/VIDEk91RnrednVb3kR63i0I0170913.shtml) | 中国经济大讲堂           | CCTV     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**被起诉的杂志社**](http://www.cctv.com/news/china/20050323/100022.shtml) | 新闻调查                 | CCTV     | :pencil::heavy_check_mark:       | 20/8/17  |
+| [**“三农”问题与我们的责任**](https://v.youku.com/v_show/id_XNzM4NzU2NzY) | 浙江图书馆               | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
+| **:sunflower:2006**                                          |                          |          |                                  |          |
+| [**“三农”问题与我们的责任**](https://v.youku.com/v_show/id_XNzM4NzU2NzY) | 浙江人文大讲堂           | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
+| **:sunflower:2007**                                          |                          |          |                                  |          |
+| [**新乡村试验**](https://v.youku.com/v_show/id_XMjY1MjEyMDc3Mg) | 面对面                   | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
+| **:sunflower:2009**                                          |                          |          |                                  |          |
+| [**（1）中国经验、比较优势与高校青年参与的乡村建设**](https://www.acfun.cn/v/ac10517323) | 超星Mooc                 | A站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（2）中国经验、比较优势与高校青年参与的乡村建设**](https://www.acfun.cn/v/ac10517329) | 超星Mooc                 | A站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（3）中国经验、比较优势与高校青年参与的乡村建设**](https://www.acfun.cn/v/ac10517330) | 超星Mooc                 | A站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（4）中国经验、比较优势与高校青年参与的乡村建设**](https://www.acfun.cn/v/ac10517334) | 超星Mooc                 | A站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| **:sunflower:2010**                                          |                          |          |                                  |          |
+| [**胶片里的乡土中国**](http://tv.cctv.com/2012/12/16/VIDE1355590636302637.shtml) | CCTV                     | CCTV     | :clapper::heavy_check_mark:      | 20/8/17  |
+| **:sunflower:2011**                                          |                          |          |                                  |          |
+| [**中国的三农问题与三治问题**](https://v.youku.com/v_show/id_XMTI5ODE0Mjc2MA) | 超星Mooc                 | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**全球危机代价转移与草根社会承载**](https://v.youku.com/v_show/id_XNDAwMDM5NjM3Mg) | 首图讲坛                 | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**生态文明与战略调整（1-4）**](http://mooc1.chaoxing.com/course/136232.html) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**新农夫·新城乡**](https://v.youku.com/v_show/id_XNTQ0NTQxNzk2.html) | 第三届CSA大会            | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
+| **:sunflower:2012**                                          |                          |          |                                  |          |
+| [**从比较研究的视角来看重庆的客观经验**](https://www.youtube.com/watch?v=sEAE_0ddgLE) | 全球大学                 | Youtube  | :musical_note::heavy_check_mark: | 20/8/17  |
+| [**在乡土实践中渐进地认识客观世界（1-5）**](http://mooc.chaoxing.com/nodedetailcontroller/visitnodedetail?knowledgeId=865300) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**全球经济危机与中国可持续发展（1-2）**](http://mooc1.chaoxing.com/course/1410333.html) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（1）城镇化与现代化**](https://www.ixigua.com/6795542592030245376) | 世纪大讲堂               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（2）城镇化与现代化**](https://www.ixigua.com/6795873416621588494) | 世纪大讲堂               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（3）城镇化与现代化**](https://www.ixigua.com/item/6796221626003226638/) | 世纪大讲堂               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| **:sunflower:2013**                                          |                          |          |                                  |          |
+| [**中国经济八次危机及其软着陆**](https://www.bilibili.com/video/BV1ox411P7YH) | 世纪大讲堂               | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**生态文明与社会进步（1-5）**](http://mooc1.chaoxing.com/course/85204.html) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**八次危机-中国的真实经验**](https://v.qq.com/x/cover/7zt740avrgy569w/e00128o3qeq.html) | 腾讯微讲堂               | 腾讯     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**八次危机-中国的真实经验**](http://m.tingdongfang.com/book17846) | 腾讯微讲堂               | 听东方   | :musical_note::heavy_check_mark: | 20/8/17  |
+| [**中国八次危机解读**](https://v.youku.com/v_show/id_XNDY5NzgzMjc0MA) | 中山讲堂                 | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**西方推量化宽松悄悄打响“金融战”**](http://phtv.ifeng.com/program/sjdjt/detail_2013_08/05/28279959_0.shtml) | 世纪大讲堂               | 凤凰     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**全球危机与中国应对**](https://v.youku.com/v_show/id_XNjQ5ODMzODky.html) | 香港大学（上海）         | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**激进与改良-民国乡村建设理论实践的现实启示**](http://blog.sciencenet.cn/blog-1557-810626.html) | 《开放时代》             | 科学网   | :pencil::heavy_check_mark:       | 20/8/17  |
+| **:sunflower:2014**                                          |                          |          |                                  |          |
+| [**浪费型消费很普遍 粮食安全难追责**](http://phtv.ifeng.com/program/xwjrt/detail_2014_02/22/34075619_0.shtml) | 新闻今日谈               | 凤凰     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**八次危机-中国的真实经验**](https://v.qq.com/x/page/w01337w02v2.html) | 超星Mooc                 | 腾讯     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**生态化整合与社会创新**](https://www.bilibili.com/video/av68916872/) | 西南大学含弘大讲堂       | B站      | :musical_note::heavy_check_mark: | 20/8/17  |
+| [**中国生态文明建设与可持续发展的现状与挑战**](http://irrc.swu.edu.cn/s/irrc/index21/20160503/936513.html) | 哈佛                     | 西南大学 | :pencil::heavy_check_mark:       | 20/8/17  |
+| [**美国世界金融地位是怎么来的**](https://www.bilibili.com/video/BV1ys411C75j) | 2014人间思想论坛         | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**新农人的乌托邦实践-城市农园发展的启示**](https://v.youku.com/v_show/id_XODMxNDA4MzA4.html) | 中国国家地理大讲堂       | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
+| **:sunflower:2015**                                          |                          |          |                                  |          |
+| [**中国的道路自信**](https://music.163.com/#/program?id=909486570) |                          | 网易云   | :musical_note::heavy_check_mark: | 20/8/17  |
+| [**“十三五”五大关键词助力农业3.0发展**](https://v.qq.com/x/page/x0314maln61.html) | 宣讲家网                 | 腾讯     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**生态农业与乡村建设**](http://www.iqiyi.com/w_19rub1lykp.html) | 第七届CSA大会            | 爱奇艺   | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**有些转基因科学家实质就是资本家**](http://blog.sciencenet.cn/blog-413-1239645.html) | 九三学社中央转基因调研会 | 科学网   | :pencil::heavy_check_mark:       | 20/8/17  |
+| **:sunflower:2016**                                          |                          |          |                                  |          |
+| [**人民币"入篮"维护货币主权**](https://v.youku.com/v_show/id_XMTg0NjQxNDg0OA) | 中国正在说 第一季        | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**Political and Economic Challenges for China**](https://www.youtube.com/watch?v=zuN7DNgNhj4) | 第三届南南论坛           | Youtube  | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**新土改与新型城镇化**](https://www.acfun.cn/v/ac11607191)  | 西南大学                 | A站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**中国智慧 养生农业**](https://v.qq.com/x/page/b0357l13mon.html) | 第八届CSA大会            | 腾讯     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**金融全球化成本向新兴国家转嫁与中国生态文明战略**](http://book.ifeng.com/a/20160602/19538_0.shtml) | 中信大讲堂               | 凤凰     | :pencil::heavy_check_mark:       | 20/8/17  |
+| **:sunflower:2017**                                          |                          |          |                                  |          |
+| [**十次危机-经济危机及其应对政策的国际比较**](https://mooc1-2.chaoxing.com/course/206199750.html) | 超星Mooc                 | 超星     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**中央一号文件和"三农"问题**](https://v.youku.com/v_show/id_XMjY0NjExMzczMg) | 中国正在说 第一季        | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**如何直面亲人？乡土写作的困境与突破**](https://v.qq.com/x/page/j002209gr0q.html) | 新闻ING                  | 腾讯     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**全球危机与中国转型**](https://v.youku.com/v_show/id_XNDczMzQxNTMzNg) | 中山讲堂                 | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**全球金融化危机与客观演变规律**](https://www.bilibili.com/video/BV14x411Y7Ni) | 香港大学                 | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**Regional Politics and Economic Alliances**](https://www.youtube.com/watch?v=R4JEoeleAbw) | 第四届南南论坛           | Youtube  | :clapper::heavy_check_mark:      | 20/8/17  |
+| **:sunflower:2018**                                          |                          |          |                                  |          |
+| [**多样化农村发展是未来发展广阔的领域**](https://www.iqiyi.com/v_19rr61xdvw.html) | 舍得智慧讲堂 第二季      | 爱奇艺   | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**老一辈革命家的经验引导当今乡村建设的进步**](https://www.iqiyi.com/v_19rr6fumtc.html) | 舍得智慧讲堂 第二季      | 爱奇艺   | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**另类政治经济范式**](https://www.bilibili.com/video/av42211856/) | 第五届南南论坛           | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**Strategic Transformation of Ecological Civilization and Rural Revitalization**](https://www.youtube.com/watch?v=sWf8_hN1tIg) | 第五届南南论坛           | Youtube  | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**全球农业经营大趋势**](https://www.bilibili.com/video/BV1pt41167BL) |                          | B站      | :musical_note::heavy_check_mark: | 20/8/17  |
+| [**去依附：传统农民挽救现代化**](https://www.bilibili.com/video/BV1nt411k7ZX) | 国情讲坛                 | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**全球金融危机与中国战略转型**](https://www.bilibili.com/video/BV1tW41137qJ) | 未来学堂                 | B站      | :musical_note::heavy_check_mark: | 20/8/17  |
+| **:sunflower:2019**                                          |                          |          |                                  |          |
+| [**乡村振兴的关键-生态产业化与产业生态化**](https://www.bilibili.com/video/BV1Mt411a7CX) | 新时代学习大讲堂         | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**告别百年激进**](https://www.bilibili.com/video/BV1qT4y1u7qm) | 人民网公开课             | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**乡村振兴的关键--生态资源产业化及其资本深化**](https://www.bilibili.com/video/BV1bA411q7vW) | 国仁乡建                 | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**生态文明转型与乡村振兴战略**](https://www.bilibili.com/video/BV1YT4y1u7q7) | 国仁乡建                 | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**在座的年轻人可能不知道91年的中国多糟糕，但为什么没崩溃呢？**](https://www.bilibili.com/video/BV1oE411q7Q5) | 观学院                   | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**中国要如何克服当下的全球化危机？**](https://www.bilibili.com/video/BV1ZE411i7V1) | 观学院                   | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**全球化危机与中国生态文明战略转型**](https://v.youku.com/v_show/id_XNDEzOTczOTE4NA) | 浙江工商大学             | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**全球危机与中国战略转型（1）**](https://music.163.com/#/program?id=2061617111) | 乡村振兴大讲堂           | 网易云   | :musical_note::heavy_check_mark: | 20/8/17  |
+| [**全球危机与中国战略转型（2）**](https://music.163.com/#/program?id=2061617110) | 乡村振兴大讲堂           | 网易云   | :musical_note::heavy_check_mark: | 20/8/17  |
+| [**乡土中国的七十年变迁**](https://v.qq.com/x/page/f3019pa7jj5.html) | 文华讲堂                 | 腾讯     | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**《去依附》新书讲座**](https://www.bilibili.com/video/BV1vJ411s7jy) |                          | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**生态文明战略下的乡村振兴与在地化知识重构**](https://www.bilibili.com/video/BV18b411j76g) | 首届文化振兴乡村峰会     | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**China: Trajectory of 70 Years**](https://www.youtube.com/watch?v=ibVQ18SXDrQ) | 第六届南南论坛           | Youtube  | :clapper::heavy_check_mark:      | 20/8/17  |
+| **:sunflower:2020**                                          |                          |          |                                  |          |
+| [**“新冷战”之下，重新审视土地与文明**](https://www.bilibili.com/video/BV17v411i7tz) | 观视频工作室             | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（4）回顾全球化进化史，中国竟是这样入局的？**](https://www.ixigua.com/6860661058281931276) | 温言铁语                 | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（3）农村空心化就是伪命题**](https://www.ixigua.com/6859264070902776331) | 温言铁语                 | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（2）发展国内大循环经济就是闭关锁国？你傻不傻**](https://www.ixigua.com/6857759525752029704/) | 温言铁语                 | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（1）疫情未平，蝗灾洪灾又起，中国的粮食安全该谁负责？**](https://www.ixigua.com/6856663335233028616/) | 温言铁语                 | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（7）80年代中国市场体系几近崩溃，竟是因为太透明**](https://www.bilibili.com/video/BV1sp4y1v7MV) | 温铁军践闻录             | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（6）为什么当年中国一定要“上山下乡”？** ](https://www.bilibili.com/video/BV1iV411z7Ub) | 温铁军践闻录             | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（5）别学了！发达国家压根就没想教你怎么变富...**](https://www.bilibili.com/video/BV1df4y1X75H) | 温铁军践闻录             | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（4）在工业化的路上，中国农民究竟做出了多少牺牲？**](https://www.bilibili.com/video/BV1iT4y1j7Zs) | 温铁军践闻录             | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（3）想变得和美国一样现代化？先搞清楚我们中国人是谁**](https://www.bilibili.com/video/BV1Pf4y1d7o3) | 温铁军践闻录             | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（2）我去了很多发展中国家，发现了西式现代化行不通**](https://www.bilibili.com/video/BV1Si4y137NR) | 温铁军践闻录             | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（1）在“现代化”的光鲜背后，我们付出了什么代价？**](https://www.bilibili.com/video/BV1rD4y1m7BP) | 温铁军践闻录             | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**新冷战的前世今生**](https://www.bilibili.com/video/BV1GK4y1x7X6) | 国仁乡建                 | B站      | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**合村并居背后竟是“三泡危机”？**](https://www.ixigua.com/item/6834067106070266380/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**大危机之下，有点儿责任感好不好？**](https://www.ixigua.com/item/6834093753137889800/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**美国实行量化宽松救活经济，为什么世界市场通胀了？**](https://www.ixigua.com/item/6844041164639699460/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**美国在依靠什么支撑金融资本全球化？**](https://www.ixigua.com/item/6844043524694868491/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**危机是客观规律，这个世界将会发生重大改变**](https://www.ixigua.com/item/6837284512389399053/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**面对重大危机中国政府推行了哪些转型战略？**](https://www.ixigua.com/item/6835945685573960205/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**20年来中国如何从资本短缺到“三大过剩”？**](https://www.ixigua.com/item/6835945178751042051/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**如何打破城乡二元结构，促进城乡要素流动？**](https://www.ixigua.com/6838904197241373197/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**中国是如何接盘“被转嫁”的金融资本的？**](https://www.ixigua.com/item/6844042186133078536/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**农村三级市场+绿色债券制度设计**](https://www.ixigua.com/item/6841714216118780420/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**多元社会应该百花齐放**](https://www.ixigua.com/item/6849718014556766731/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**疫情影响下如何缓解毕业生就业压力？**](https://www.ixigua.com/item/6838557122418967052/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**不要着急否定县长直播带货**](https://www.ixigua.com/item/6834065550767817219/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**勿让“美颜”影响自觉思考的能力**](https://www.ixigua.com/item/6848831588495524364/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**乡村振兴不能只让农民种地**](https://www.ixigua.com/item/6833685506874671627/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**“空心村”如何绝地重生？**](https://www.ixigua.com/item/6831171828422017548/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**全球疫情危机下的“去中国化”挑战**](https://www.ixigua.com/item/6829111934869045773/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**建国以来农民向国家贡献了多少剩余？**](https://www.ixigua.com/item/6828574302867030532/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（6）疫情下回看**](https://www.ixigua.com/item/6802496286319706628/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（5）疫情下回看**](https://www.ixigua.com/item/6801473178855014915/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（4）疫情下回看**](https://www.ixigua.com/item/6800749303099818500/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（3）疫情下回看**](https://www.ixigua.com/item/6799464585146401284/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（2）疫情下回看**](https://www.ixigua.com/item/6799032802596618248/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（1）疫情下回看**](https://www.ixigua.com/6798510276153966606/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（3）疫情和全球化危机**](https://www.ixigua.com/item/6796654895672852487/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（2）疫情与全球化危机**](https://www.ixigua.com/item/6796278219688378375/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**（1）疫情与全球化危机**](https://www.ixigua.com/item/6795780348228829192/) | 温铁军直播               | 西瓜视频 | :clapper::heavy_check_mark:      | 20/8/17  |
+| [**乡村振兴的现实意义**](https://v.youku.com/v_show/id_XNDc4NjcxNTI3Mg) | 中国正在说 第二季        | 优酷     | :clapper::heavy_check_mark:      | 20/8/17  |
 
 ### :books:出版物
 
