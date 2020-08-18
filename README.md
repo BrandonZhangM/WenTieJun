@@ -38,7 +38,7 @@
 
 ## :zap:资源列表
 
-| Topic                                                        | Channel                  | Source   | Status         | Time    |
+| Topic                                                        | Channel                  | Source   | Type           | Time    |
 | ------------------------------------------------------------ | ------------------------ | -------- | -------------- | ------- |
 | **:sunflower:2001**                                          |                          |          |                |         |
 | [**百年中国，一波四折**](http://www.cnki.com.cn/Article/CJFDTotal-DSZZ200103000.htm) | 《读书》                 | 知网     | :pencil:       | 20/8/17 |
@@ -133,13 +133,14 @@
 | [**（3）农村空心化就是伪命题**](https://www.ixigua.com/6859264070902776331) | 温言铁语                 | 西瓜     | :clapper:      | 20/8/17 |
 | [**（2）发展国内大循环经济就是闭关锁国？你傻不傻**](https://www.ixigua.com/6857759525752029704/) | 温言铁语                 | 西瓜     | :clapper:      | 20/8/17 |
 | [**（1）疫情未平，蝗灾洪灾又起，中国的粮食安全该谁负责？**](https://www.ixigua.com/6856663335233028616/) | 温言铁语                 | 西瓜     | :clapper:      | 20/8/17 |
-| [**（7）80年代中国市场体系几近崩溃，竟是因为太透明**](https://www.bilibili.com/video/BV1sp4y1v7MV) | 温铁军践闻录             | B站      | :clapper:      | 20/8/17 |
-| [**（6）为什么当年中国一定要“上山下乡”？** ](https://www.bilibili.com/video/BV1iV411z7Ub) | 温铁军践闻录             | B站      | :clapper:      | 20/8/17 |
-| [**（5）别学了！发达国家压根就没想教你怎么变富...**](https://www.bilibili.com/video/BV1df4y1X75H) | 温铁军践闻录             | B站      | :clapper:      | 20/8/17 |
-| [**（4）在工业化的路上，中国农民究竟做出了多少牺牲？**](https://www.bilibili.com/video/BV1iT4y1j7Zs) | 温铁军践闻录             | B站      | :clapper:      | 20/8/17 |
-| [**（3）想变得和美国一样现代化？先搞清楚我们中国人是谁**](https://www.bilibili.com/video/BV1Pf4y1d7o3) | 温铁军践闻录             | B站      | :clapper:      | 20/8/17 |
-| [**（2）我去了很多发展中国家，发现了西式现代化行不通**](https://www.bilibili.com/video/BV1Si4y137NR) | 温铁军践闻录             | B站      | :clapper:      | 20/8/17 |
-| [**（1）在“现代化”的光鲜背后，我们付出了什么代价？**](https://www.bilibili.com/video/BV1rD4y1m7BP) | 温铁军践闻录             | B站      | :clapper:      | 20/8/17 |
+| [**（8）新现代化**](https://www.bilibili.com/video/BV1P5411h7Yu) | 温铁军践闻录             | B站      | :clapper:      | 20/8/18 |
+| [**（7）静悄悄的金融**](https://www.bilibili.com/video/BV1sp4y1v7MV) | 温铁军践闻录             | B站      | :clapper:      | 20/8/17 |
+| [**（6）国家资本** ](https://www.bilibili.com/video/BV1iV411z7Ub) | 温铁军践闻录             | B站      | :clapper:      | 20/8/17 |
+| [**（5）发展主义陷阱**](https://www.bilibili.com/video/BV1df4y1X75H) | 温铁军践闻录             | B站      | :clapper:      | 20/8/17 |
+| [**（4）民国之思**](https://www.bilibili.com/video/BV1iT4y1j7Zs) | 温铁军践闻录             | B站      | :clapper:      | 20/8/17 |
+| [**（3）我们是谁**](https://www.bilibili.com/video/BV1Pf4y1d7o3) | 温铁军践闻录             | B站      | :clapper:      | 20/8/17 |
+| [**（2）现代化的真相（下）**](https://www.bilibili.com/video/BV1Si4y137NR) | 温铁军践闻录             | B站      | :clapper:      | 20/8/17 |
+| [**（1）现代化的真相（上）**](https://www.bilibili.com/video/BV1rD4y1m7BP) | 温铁军践闻录             | B站      | :clapper:      | 20/8/17 |
 | [**新冷战的前世今生**](https://www.bilibili.com/video/BV1GK4y1x7X6) | 国仁乡建                 | B站      | :clapper:      | 20/8/17 |
 | [**合村并居背后竟是“三泡危机”？**](https://www.ixigua.com/item/6834067106070266380/) | 温铁军直播               | 西瓜     | :clapper:      | 20/8/17 |
 | [**大危机之下，有点儿责任感好不好？**](https://www.ixigua.com/item/6834093753137889800/) | 温铁军直播               | 西瓜     | :clapper:      | 20/8/17 |
