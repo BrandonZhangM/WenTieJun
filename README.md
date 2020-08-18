@@ -2,14 +2,7 @@
 
 :eyes:	[**向我匿名提问**](https://www.pomeet.com/imsuKX3n)
 
-Table of Contents
------------------
 
-- [简介](#:blush:简介)
-- [经历](#经历)
-- [专栏](#专栏)
-- [主页](#主页)
-- [资源列表](#资源列表)
 
 ## :blush:简介
 
