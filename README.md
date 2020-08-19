@@ -121,8 +121,8 @@
 | [**在座的年轻人可能不知道91年的中国多糟糕，但为什么没崩溃呢？**](https://www.bilibili.com/video/BV1oE411q7Q5) | 观学院                   | B站      | :clapper:      | 20/8/17 |
 | [**中国要如何克服当下的全球化危机？**](https://www.bilibili.com/video/BV1ZE411i7V1) | 观学院                   | B站      | :clapper:      | 20/8/17 |
 | [**全球化危机与中国生态文明战略转型**](https://v.youku.com/v_show/id_XNDEzOTczOTE4NA) | 浙江工商大学             | 优酷     | :clapper:      | 20/8/17 |
-| [**全球危机与中国战略转型（1）**](https://music.163.com/#/program?id=2061617111) | 乡村振兴大讲堂           | 网易云   | :musical_note: | 20/8/17 |
-| [**全球危机与中国战略转型（2）**](https://music.163.com/#/program?id=2061617110) | 乡村振兴大讲堂           | 网易云   | :musical_note: | 20/8/17 |
+| [**（1）全球危机与中国战略转型**](https://music.163.com/#/program?id=2061617111) | 乡村振兴大讲堂           | 网易云   | :musical_note: | 20/8/17 |
+| [**（2）全球危机与中国战略转型**](https://music.163.com/#/program?id=2061617110) | 乡村振兴大讲堂           | 网易云   | :musical_note: | 20/8/17 |
 | [**乡土中国的七十年变迁**](https://v.qq.com/x/page/f3019pa7jj5.html) | 文华讲堂                 | 腾讯     | :clapper:      | 20/8/17 |
 | [**《去依附》新书讲座**](https://www.bilibili.com/video/BV1vJ411s7jy) |                          | B站      | :clapper:      | 20/8/17 |
 | [**生态文明战略下的乡村振兴与在地化知识重构**](https://www.bilibili.com/video/BV18b411j76g) | 首届文化振兴乡村峰会     | B站      | :clapper:      | 20/8/17 |
