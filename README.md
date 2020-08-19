@@ -101,6 +101,7 @@
 | [**中国智慧 养生农业**](https://v.qq.com/x/page/b0357l13mon.html) | 第八届CSA大会              | 腾讯     | :clapper:      | 20/8/17 |
 | [**金融全球化成本向新兴国家转嫁与中国生态文明战略**](http://book.ifeng.com/a/20160602/19538_0.shtml) | 中信大讲堂                 | 凤凰     | :pencil:       | 20/8/17 |
 | **:sunflower:2017**                                          |                            |          |                |         |
+| [**生态文明战略之下的乡村建设**](https://www.bilibili.com/video/BV1CA41147VD) | 首届乡村建设研习营         | B站      | :clapper:      | 20/8/19 |
 | [**十次危机-经济危机及其应对政策的国际比较**](https://mooc1-2.chaoxing.com/course/206199750.html) | 超星Mooc                   | 超星     | :clapper:      | 20/8/17 |
 | [**中央一号文件和"三农"问题**](https://v.youku.com/v_show/id_XMjY0NjExMzczMg) | 中国正在说 第一季          | 优酷     | :clapper:      | 20/8/17 |
 | [**如何直面亲人？乡土写作的困境与突破**](https://v.qq.com/x/page/j002209gr0q.html) | 新闻ING                    | 腾讯     | :clapper:      | 20/8/17 |
