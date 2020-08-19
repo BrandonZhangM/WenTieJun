@@ -243,57 +243,57 @@
 
 ## :pushpin:其他
 
-1.中央农村政策研究室
+**1.中央农村政策研究室**
 
-[“农研室”的建立-九号院里的机构改革故事之一](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201807022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjUyNzQ5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmxVcnZKSXpmTWJiRzRIOW5NcUk=)
+> [“农研室”的建立-九号院里的机构改革故事之一](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201807022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjUyNzQ5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmxVcnZKSXpmTWJiRzRIOW5NcUk=)
+>
+> [“农研室”的演变-九号院里的机构改革故事之三](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201809015&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDAwNDFyQ1VSN3FmYitkc0Z5bmxVcnZCSXpmTWJiRzRIOW5NcG85RVlZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=)
+>
+> [九号院的“建立”与演进](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201805017&v=MjMyNjJDVVI3cWZiK2RzRnlua1VickJJemZNYmJHNEg5bk1xbzlFWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=)
+>
+> [九号院里的“研究员”](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=FZGC201504026&v=MDQyNzQ5SFlvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtWNzNQSXpmTWJiRzRIOVRNcTQ=)
+>
+> [九号院与中国农村](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2005&filename=FZGC200509000&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzA0ODJmTWJiRzRIdFRNcG85RlpJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtWTHJCSXo=)
+>
+> [九号院诸“老”-九号院与中国农村之二](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=FZGC201008022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjQxNzg3UEl6Zk1iYkc0SDlITXA0OUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZmIrZHNGeW5rV3I=)
+>
+> [从“九号院”看“农民的政治”-写在《农民的政治》出版之际](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2011&filename=FZGC201106022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzAzMDJmTWJiRzRIOURNcVk5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtXcnZCSXo=)
 
-[“农研室”的演变-九号院里的机构改革故事之三](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201809015&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDAwNDFyQ1VSN3FmYitkc0Z5bmxVcnZCSXpmTWJiRzRIOW5NcG85RVlZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=)
+**2.杜润生**
 
-[九号院的“建立”与演进](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=FZGC201805017&v=MjMyNjJDVVI3cWZiK2RzRnlua1VickJJemZNYmJHNEg5bk1xbzlFWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=)
+> [农村形势与流通问题_1986](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=SYJJ198608001&dbcode=CJFD&dbname=CJFD1986&v=)
+>
+> [关于中国的土地改革运动_1996](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=ZGDS199606005&dbcode=CJFD&dbname=CJFD1996&v=)
+>
+> [建设新农村不能动摇家庭承包责任制_2006](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=ZGGG200606001&dbcode=cjfd&dbname=cjfd2006&v=)
 
-[九号院里的“研究员”](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=FZGC201504026&v=MDQyNzQ5SFlvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtWNzNQSXpmTWJiRzRIOVRNcTQ=)
+**3.萨米尔·阿明**
 
-[九号院与中国农村](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2005&filename=FZGC200509000&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzA0ODJmTWJiRzRIdFRNcG85RlpJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtWTHJCSXo=)
+> [不平等的发展 : 论外围资本主义的社会形态](https://book.douban.com/subject/27106218/)
+>
+> [世界规模的积累 : 欠发达理论批判](https://book.douban.com/subject/27024181/)
+>
+> [全球化时代的资本主义 : 对当代社会的管理](https://book.douban.com/subject/24524648/)
 
-[九号院诸“老”-九号院与中国农村之二](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=FZGC201008022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjQxNzg3UEl6Zk1iYkc0SDlITXA0OUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZmIrZHNGeW5rV3I=)
+**4.伊曼纽尔·莫里斯·沃勒斯坦**
 
-[从“九号院”看“农民的政治”-写在《农民的政治》出版之际](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2011&filename=FZGC201106022&uid=WEEvREcwSlJHSldTTEYzVDhUSFJNSUtyamFpZVFNdDFORlU1STFZeHpCTT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzAzMDJmTWJiRzRIOURNcVk5SFpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitkc0Z5bmtXcnZCSXo=)
+> [现代世界体系](https://book.douban.com/subject/25763756/)
+>
+> [资本主义还有未来吗](https://book.douban.com/subject/25864125/)
 
-2.杜润生
+**5.乔万尼·阿里吉**
 
-[农村形势与流通问题_1986](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=SYJJ198608001&dbcode=CJFD&dbname=CJFD1986&v=)
+> [漫长的20世纪 : 金钱、权力与我们社会的根源](https://book.douban.com/subject/1027186/)
+>
+> [亚当·斯密在北京 : 21世纪的谱系](https://book.douban.com/subject/3816191/)
 
-[关于中国的土地改革运动_1996](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=ZGDS199606005&dbcode=CJFD&dbname=CJFD1996&v=)
+**6.托马斯·皮凯蒂**
 
-[建设新农村不能动摇家庭承包责任制_2006](https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=ZGGG200606001&dbcode=cjfd&dbname=cjfd2006&v=)
-
-3.萨米尔·阿明
-
-[不平等的发展 : 论外围资本主义的社会形态](https://book.douban.com/subject/27106218/)
-
-[世界规模的积累 : 欠发达理论批判](https://book.douban.com/subject/27024181/)
-
-[全球化时代的资本主义 : 对当代社会的管理](https://book.douban.com/subject/24524648/)
-
-4.伊曼纽尔·莫里斯·沃勒斯坦
-
-[现代世界体系](https://book.douban.com/subject/25763756/)
-
-[资本主义还有未来吗](https://book.douban.com/subject/25864125/)
-
-5.乔万尼·阿里吉
-
-[漫长的20世纪 : 金钱、权力与我们社会的根源](https://book.douban.com/subject/1027186/)
-
-[亚当·斯密在北京 : 21世纪的谱系](https://book.douban.com/subject/3816191/)
-
-6.托马斯·皮凯蒂
-
-[21世纪资本论](https://book.douban.com/subject/25947310/) 
-
-[不平等经济学](https://book.douban.com/subject/26686542/) 
-
-[财富再分配](https://book.douban.com/subject/27032770/) 
+> [21世纪资本论](https://book.douban.com/subject/25947310/) 
+>
+> [不平等经济学](https://book.douban.com/subject/26686542/) 
+>
+> [财富再分配](https://book.douban.com/subject/27032770/) 
 
 <br/>
 
