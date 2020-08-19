@@ -295,5 +295,4 @@
 
 [**全国图书馆参考咨询联盟**](http://www.ucdrs.superlib.net/)	
 
-
-
+[**马克思主义文库**](https://www.marxists.org/chinese/)
