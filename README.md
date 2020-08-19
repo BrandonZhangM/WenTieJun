@@ -47,7 +47,6 @@
 | **:sunflower:2005**                                          |                          |          |                |         |
 | [**新农村建设**](http://tv.cctv.com/2017/09/13/VIDEk91RnrednVb3kR63i0I0170913.shtml) | 中国经济大讲堂           | CCTV     | :clapper:      | 20/8/17 |
 | [**被起诉的杂志社**](http://www.cctv.com/news/china/20050323/100022.shtml) | 新闻调查                 | CCTV     | :pencil:       | 20/8/17 |
-| [**“三农”问题与我们的责任**](https://v.youku.com/v_show/id_XNzM4NzU2NzY) | 浙江图书馆               | 优酷     | :clapper:      | 20/8/17 |
 | **:sunflower:2006**                                          |                          |          |                |         |
 | [**“三农”问题与我们的责任**](https://v.youku.com/v_show/id_XNzM4NzU2NzY) | 浙江人文大讲堂           | 优酷     | :clapper:      | 20/8/17 |
 | **:sunflower:2007**                                          |                          |          |                |         |
@@ -72,6 +71,7 @@
 | [**（2）城镇化与现代化**](https://www.ixigua.com/6795873416621588494) | 世纪大讲堂               | 西瓜     | :clapper:      | 20/8/17 |
 | [**（3）城镇化与现代化**](https://www.ixigua.com/item/6796221626003226638/) | 世纪大讲堂               | 西瓜     | :clapper:      | 20/8/17 |
 | **:sunflower:2013**                                          |                          |          |                |         |
+| [**新型城镇化的发展之路**](https://v.youku.com/v_show/id_XNTYwOTI5NDYw.html) | 对话中原                 | 优酷     | :clapper:      | 20/8/19 |
 | [**中国经济八次危机及其软着陆**](https://www.bilibili.com/video/BV1ox411P7YH) | 世纪大讲堂               | B站      | :clapper:      | 20/8/17 |
 | [**生态文明与社会进步（1-5）**](http://mooc1.chaoxing.com/course/85204.html) | 超星Mooc                 | 超星     | :clapper:      | 20/8/17 |
 | [**八次危机-中国的真实经验**](https://v.qq.com/x/cover/7zt740avrgy569w/e00128o3qeq.html) | 腾讯微讲堂               | 腾讯     | :clapper:      | 20/8/17 |
@@ -130,6 +130,7 @@
 | **:sunflower:2020**                                          |                          |          |                |         |
 | [**乡村振兴的现实意义**](https://v.youku.com/v_show/id_XNDc4NjcxNTI3Mg) | 中国正在说 第二季        | 优酷     | :clapper:      | 20/8/17 |
 | [**“新冷战”之下，重新审视土地与文明**](https://www.bilibili.com/video/BV17v411i7tz) | 观视频工作室             | B站      | :clapper:      | 20/8/17 |
+| [**中国崛起是搭了全球化的便车？**](https://www.ixigua.com/6861855370197860868) | 温言铁语                 | 西瓜     | :clapper:      | 20/8/19 |
 | [**（4）回顾全球化进化史，中国竟是这样入局的？**](https://www.ixigua.com/6860661058281931276) | 温言铁语                 | 西瓜     | :clapper:      | 20/8/17 |
 | [**（3）农村空心化就是伪命题**](https://www.ixigua.com/6859264070902776331) | 温言铁语                 | 西瓜     | :clapper:      | 20/8/17 |
 | [**（2）发展国内大循环经济就是闭关锁国？你傻不傻**](https://www.ixigua.com/6857759525752029704/) | 温言铁语                 | 西瓜     | :clapper:      | 20/8/17 |
