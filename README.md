@@ -128,6 +128,7 @@
 | [**生态文明战略下的乡村振兴与在地化知识重构**](https://www.bilibili.com/video/BV18b411j76g) | 首届文化振兴乡村峰会     | B站      | :clapper:      | 20/8/17 |
 | [**China: Trajectory of 70 Years**](https://www.youtube.com/watch?v=ibVQ18SXDrQ) | 第六届南南论坛           | Youtube  | :clapper:      | 20/8/17 |
 | **:sunflower:2020**                                          |                          |          |                |         |
+| [**乡村振兴的现实意义**](https://v.youku.com/v_show/id_XNDc4NjcxNTI3Mg) | 中国正在说 第二季        | 优酷     | :clapper:      | 20/8/17 |
 | [**“新冷战”之下，重新审视土地与文明**](https://www.bilibili.com/video/BV17v411i7tz) | 观视频工作室             | B站      | :clapper:      | 20/8/17 |
 | [**（4）回顾全球化进化史，中国竟是这样入局的？**](https://www.ixigua.com/6860661058281931276) | 温言铁语                 | 西瓜     | :clapper:      | 20/8/17 |
 | [**（3）农村空心化就是伪命题**](https://www.ixigua.com/6859264070902776331) | 温言铁语                 | 西瓜     | :clapper:      | 20/8/17 |
@@ -169,7 +170,6 @@
 | [**（3）疫情和全球化危机**](https://www.ixigua.com/item/6796654895672852487/) | 温铁军直播               | 西瓜     | :clapper:      | 20/8/17 |
 | [**（2）疫情与全球化危机**](https://www.ixigua.com/item/6796278219688378375/) | 温铁军直播               | 西瓜     | :clapper:      | 20/8/17 |
 | [**（1）疫情与全球化危机**](https://www.ixigua.com/item/6795780348228829192/) | 温铁军直播               | 西瓜     | :clapper:      | 20/8/17 |
-| [**乡村振兴的现实意义**](https://v.youku.com/v_show/id_XNDc4NjcxNTI3Mg) | 中国正在说 第二季        | 优酷     | :clapper:      | 20/8/17 |
 
 <br/>
 
