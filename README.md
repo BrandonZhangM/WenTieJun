@@ -41,9 +41,8 @@
 | Topic                                                        | Channel                    | Source   | Type           | Time    |
 | ------------------------------------------------------------ | -------------------------- | -------- | -------------- | ------- |
 | **:sunflower:2001**                                          |                            |          |                |         |
-| [**百年中国，一波四折**](http://www.cnki.com.cn/Article/CJFDTotal-DSZZ200103000.htm) | 《读书》                   | 知网     | :pencil:       | 20/8/17 |
 | [**世纪之交的三农问题**](https://v.youku.com/v_show/id_XMzA0NjQ5MTc0OA) | 世纪大讲堂                 | 优酷     | :clapper:      | 20/8/17 |
-| [**世纪之交的三农问题**](http://m.tingdongfang.com/book5340p2) | 世纪大讲堂                 | 听东方   | :musical_note: | 20/8/17 |
+| [**百年中国，一波四折**](http://www.cnki.com.cn/Article/CJFDTotal-DSZZ200103000.htm) | 《读书》                   | 知网     | :pencil:       | 20/8/17 |
 | **:sunflower:2005**                                          |                            |          |                |         |
 | [**新农村建设**](http://tv.cctv.com/2017/09/13/VIDEk91RnrednVb3kR63i0I0170913.shtml) | 中国经济大讲堂             | CCTV     | :clapper:      | 20/8/17 |
 | [**被起诉的杂志社**](http://www.cctv.com/news/china/20050323/100022.shtml) | 新闻调查                   | CCTV     | :pencil:       | 20/8/17 |
@@ -76,7 +75,6 @@
 | [**中国经济八次危机及其软着陆**](https://www.bilibili.com/video/BV1ox411P7YH) | 世纪大讲堂                 | B站      | :clapper:      | 20/8/17 |
 | [**生态文明与社会进步（1-5）**](http://mooc1.chaoxing.com/course/85204.html) | 超星Mooc                   | 超星     | :clapper:      | 20/8/17 |
 | [**八次危机-中国的真实经验**](https://v.qq.com/x/cover/7zt740avrgy569w/e00128o3qeq.html) | 腾讯微讲堂                 | 腾讯     | :clapper:      | 20/8/17 |
-| [**八次危机-中国的真实经验**](http://m.tingdongfang.com/book17846) | 腾讯微讲堂                 | 听东方   | :musical_note: | 20/8/17 |
 | [**中国八次危机解读**](https://v.youku.com/v_show/id_XNDY5NzgzMjc0MA) | 中山讲堂                   | 优酷     | :clapper:      | 20/8/17 |
 | [**西方推量化宽松悄悄打响“金融战”**](http://phtv.ifeng.com/program/sjdjt/detail_2013_08/05/28279959_0.shtml) | 世纪大讲堂                 | 凤凰     | :clapper:      | 20/8/17 |
 | [**全球危机与中国应对**](https://v.youku.com/v_show/id_XNjQ5ODMzODky.html) | 香港大学（上海）           | 优酷     | :clapper:      | 20/8/17 |
