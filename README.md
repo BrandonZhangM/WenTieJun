@@ -50,7 +50,7 @@
 | [**（4）回顾全球化进化史，中国竟是这样入局的？**](https://www.ixigua.com/6860661058281931276) | 温言铁语                   | 西瓜     | :clapper:      | 20/8/17 |
 | [**（3）农村空心化就是伪命题**](https://www.ixigua.com/6859264070902776331) | 温言铁语                   | 西瓜     | :clapper:      | 20/8/17 |
 | [**（2）发展国内大循环经济就是闭关锁国？你傻不傻**](https://www.ixigua.com/6857759525752029704/) | 温言铁语                   | 西瓜     | :clapper:      | 20/8/17 |
-| [**（1）疫情未平，蝗灾洪灾又起，中国的粮食安全该谁负责？**](https://www.ixigua.com/6856663335233028616/) | 温言铁语                   | 西瓜     | :clapper:      | 20/8/17 |
+| [**（1）中国的粮食安全该谁负责？**](https://www.ixigua.com/6856663335233028616/) | 温言铁语                   | 西瓜     | :clapper:      | 20/8/17 |
 | [**（8）新现代化**](https://www.bilibili.com/video/BV1P5411h7Yu) | 温铁军践闻录               | B站      | :clapper:      | 20/8/18 |
 | [**（7）静悄悄的金融**](https://www.bilibili.com/video/BV1sp4y1v7MV) | 温铁军践闻录               | B站      | :clapper:      | 20/8/17 |
 | [**（6）国家资本** ](https://www.bilibili.com/video/BV1iV411z7Ub) | 温铁军践闻录               | B站      | :clapper:      | 20/8/17 |
