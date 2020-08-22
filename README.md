@@ -152,7 +152,7 @@
 | [**全球危机与中国应对**](https://v.youku.com/v_show/id_XNjQ5ODMzODky.html) | 香港大学（上海）           | 优酷     | :clapper:      | 20/8/17 |
 | [**激进与改良-民国乡村建设理论实践的现实启示**](http://blog.sciencenet.cn/blog-1557-810626.html) | 《开放时代》               | 科学网   | :pencil:       | 20/8/17 |
 | **:sunflower:2012**                                          |                            |          |                |         |
-| [**从比较研究的视角来看重庆的客观经验**](https://www.youtube.com/watch?v=sEAE_0ddgLE) | 全球大学                   | Youtube  | :musical_note: | 20/8/17 |
+| [**从比较研究的视角来看重庆的客观经验**](https://www.youtube.com/watch?v=sEAE_0ddgLE) | 全球大学                   | Youtube  | :clapper: | 20/8/17 |
 | [**在乡土实践中渐进地认识客观世界（1-5）**](http://mooc.chaoxing.com/nodedetailcontroller/visitnodedetail?knowledgeId=865300) | 超星Mooc                   | 超星     | :clapper:      | 20/8/17 |
 | [**全球经济危机与中国可持续发展（1-2）**](http://mooc1.chaoxing.com/course/1410333.html) | 超星Mooc                   | 超星     | :clapper:      | 20/8/17 |
 | [**（1）城镇化与现代化**](https://www.ixigua.com/6795542592030245376) | 世纪大讲堂                 | 西瓜     | :clapper:      | 20/8/17 |
