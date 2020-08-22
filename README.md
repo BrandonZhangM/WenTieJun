@@ -43,6 +43,7 @@
 | Topic                                                        | Channel                    | Source   | Type           | Time    |
 | ------------------------------------------------------------ | -------------------------- | -------- | -------------- | ------- |
 | **:sunflower:2020**                                          |                            |          |                |         |
+| [**西方语境下冷战意识形态与中方语境下的自在解构**](https://www.bilibili.com/video/BV1ai4y1g7CD) | 全球大学 | B站 | :clapper: | 20/8/22 |
 | [**生态文明与乡村振兴**](https://www.iqiyi.com/v_v5znjvq0m8.html) | 浙江财经大学               | 爱奇艺   | :clapper:      | 20/8/19 |
 | [**“新冷战”之下，重新审视土地与文明**](https://www.bilibili.com/video/BV17v411i7tz) | 观视频工作室               | B站      | :clapper:      | 20/8/17 |
 | [**（6）农村教育还有出路吗？**](https://www.ixigua.com/6862966633246228995) | 温言铁语                   | 西瓜     | :clapper:      | 20/8/21 |
