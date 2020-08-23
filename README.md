@@ -165,7 +165,7 @@
 | [**生态文明与战略调整（1-4）**](http://mooc1.chaoxing.com/course/136232.html) | 超星Mooc                   | 超星     | :clapper:      | 20/8/17 |
 | [**新农夫·新城乡**](https://v.youku.com/v_show/id_XNTQ0NTQxNzk2.html) | 第三届CSA大会              | 优酷     | :clapper:      | 20/8/17 |
 | **:sunflower:2010**                                          |                            |          |                |         |
-| [**中国发展阶段与教育错位改革**](https://www.youtube.com/watch?v=j35C4rOdRP0) | 新民教育讲坛 | Youtube | | 20/8/24 |
+| [**中国发展阶段与教育错位改革**](https://www.youtube.com/watch?v=j35C4rOdRP0) | 新民教育讲坛 | Youtube | :clapper: | 20/8/24 |
 | [**胶片里的乡土中国**](http://tv.cctv.com/2012/12/16/VIDE1355590636302637.shtml) | CCTV                       | CCTV     | :clapper:      | 20/8/17 |
 | **:sunflower:2009**                                          |                            |          |                |         |
 | [**未来中国农民的组织化**](http://news.sohu.com/s2009/9616/s267829862/) | 2049跨越百年的梦想         | 搜狐     | :clapper:      | 20/8/19 |
