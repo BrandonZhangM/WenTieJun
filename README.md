@@ -46,6 +46,7 @@
 | [**西方语境下冷战意识形态与中方语境下的自在解构**](https://www.bilibili.com/video/BV1ai4y1g7CD) | 全球大学 | B站 | :clapper: | 20/8/22 |
 | [**生态文明与乡村振兴**](https://www.iqiyi.com/v_v5znjvq0m8.html) | 浙江财经大学               | 爱奇艺   | :clapper:      | 20/8/19 |
 | [**“新冷战”之下，重新审视土地与文明**](https://www.bilibili.com/video/BV17v411i7tz) | 观视频工作室               | B站      | :clapper:      | 20/8/17 |
+| [**（7）金融嫌贫爱富**](https://www.ixigua.com/6864453547879531015) | 温言铁语 | 西瓜 | :clapper: | 20/8/26 |
 | [**（6）农村教育还有出路吗？**](https://www.ixigua.com/6862966633246228995) | 温言铁语                   | 西瓜     | :clapper:      | 20/8/21 |
 | [**（5）中国崛起是搭了全球化的便车？**](https://www.ixigua.com/6861855370197860868) | 温言铁语                   | 西瓜     | :clapper:      | 20/8/19 |
 | [**（4）回顾全球化进化史，中国竟是这样入局的？**](https://www.ixigua.com/6860661058281931276) | 温言铁语                   | 西瓜     | :clapper:      | 20/8/17 |
