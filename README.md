@@ -43,9 +43,7 @@
 | Topic                                                        | Channel                    | Source   | Type           | Time    |
 | ------------------------------------------------------------ | -------------------------- | -------- | -------------- | ------- |
 | **:sunflower:2020**                                          |                            |          |                |         |
-| [**西方语境下冷战意识形态与中方语境下的自在解构**](https://www.bilibili.com/video/BV1ai4y1g7CD) | 全球大学 | B站 | :clapper: | 20/8/22 |
-| [**生态文明与乡村振兴**](https://www.iqiyi.com/v_v5znjvq0m8.html) | 浙江财经大学               | 爱奇艺   | :clapper:      | 20/8/19 |
-| [**“新冷战”之下，重新审视土地与文明**](https://www.bilibili.com/video/BV17v411i7tz) | 观视频工作室               | B站      | :clapper:      | 20/8/17 |
+| [**（11）农业集体化没效率还要干？**](https://www.ixigua.com/6869637110912156171) | 温言铁语 | 西瓜 | :clapper: | 20/9/8 |
 | [**（10）你封什么建**](https://www.ixigua.com/6868169393600365069) | 温言铁语 | 西瓜 | :clapper: | 20/9/4 |
 | [**（9）不靠美元靠绿水青山**](https://www.ixigua.com/6867041071046590979) | 温言铁语 | 西瓜 | :clapper: | 20/8/31 |
 | [**（8）农村经济还有未来吗？**](https://www.ixigua.com/6865563996624257547) | 温言铁语 | 西瓜 | :clapper: | 20/8/28 |
@@ -56,6 +54,9 @@
 | [**（3）农村空心化就是伪命题**](https://www.ixigua.com/6859264070902776331) | 温言铁语                   | 西瓜     | :clapper:      | 20/8/17 |
 | [**（2）发展国内大循环经济就是闭关锁国？你傻不傻**](https://www.ixigua.com/6857759525752029704/) | 温言铁语                   | 西瓜     | :clapper:      | 20/8/17 |
 | [**（1）中国的粮食安全该谁负责？**](https://www.ixigua.com/6856663335233028616/) | 温言铁语                   | 西瓜     | :clapper:      | 20/8/17 |
+| [**西方语境下冷战意识形态与中方语境下的自在解构**](https://www.bilibili.com/video/BV1ai4y1g7CD) | 全球大学 | B站 | :clapper: | 20/8/22 |
+| [**生态文明与乡村振兴**](https://www.iqiyi.com/v_v5znjvq0m8.html) | 浙江财经大学 | 爱奇艺 | :clapper: | 20/8/19 |
+| [**“新冷战”之下，重新审视土地与文明**](https://www.bilibili.com/video/BV17v411i7tz) | 观视频工作室 | B站 | :clapper: | 20/8/17 |
 | [**（8）新现代化**](https://www.bilibili.com/video/BV1P5411h7Yu) | 温铁军践闻录               | B站      | :clapper:      | 20/8/18 |
 | [**（7）静悄悄的金融**](https://www.bilibili.com/video/BV1sp4y1v7MV) | 温铁军践闻录               | B站      | :clapper:      | 20/8/17 |
 | [**（6）国家资本** ](https://www.bilibili.com/video/BV1iV411z7Ub) | 温铁军践闻录               | B站      | :clapper:      | 20/8/17 |
@@ -177,6 +178,8 @@
 | [**（2）中国经验、比较优势与高校青年参与的乡村建设**](https://www.acfun.cn/v/ac10517329) | 超星Mooc                   | A站      | :clapper:      | 20/8/17 |
 | [**（3）中国经验、比较优势与高校青年参与的乡村建设**](https://www.acfun.cn/v/ac10517330) | 超星Mooc                   | A站      | :clapper:      | 20/8/17 |
 | [**（4）中国经验、比较优势与高校青年参与的乡村建设**](https://www.acfun.cn/v/ac10517334) | 超星Mooc                   | A站      | :clapper:      | 20/8/17 |
+| **:sunflower:2008** |  |  |  |  |
+| [**我早就不认可所谓现代化了**](http://www.cnki.com.cn/Article/CJFDTotal-NFRW200803023.htm) | 《南方人物周刊》 | 知网 | :pencil: | 20/9/8 |
 | **:sunflower:2007**                                          |                            |          |                |         |
 | [**新乡村试验**](https://v.youku.com/v_show/id_XMjY1MjEyMDc3Mg) | 面对面                     | 优酷     | :clapper:      | 20/8/17 |
 | **:sunflower:2006**                                          |                            |          |                |         |
