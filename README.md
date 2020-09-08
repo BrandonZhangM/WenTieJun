@@ -1,4 +1,4 @@
-:loudspeaker: 	正在收录**温铁军**教授的访谈，节目，演讲等记录（已有114个，欢迎大家分享）
+:loudspeaker: 	正在收录**温铁军**教授的访谈，节目，演讲等记录，欢迎大家分享
 
 <br/>
 
@@ -149,6 +149,7 @@
 | [**美国世界金融地位是怎么来的**](https://www.bilibili.com/video/BV1ys411C75j) | 2014人间思想论坛           | B站      | :clapper:      | 20/8/17 |
 | [**新农人的乌托邦实践-城市农园发展的启示**](https://v.youku.com/v_show/id_XODMxNDA4MzA4.html) | 中国国家地理大讲堂         | 优酷     | :clapper:      | 20/8/17 |
 | **:sunflower:2013**                                          |                            |          |                |         |
+| [**三农问题与中国道路**](http://www.cnki.com.cn/Article/CJFDTotal-ZGTZ201311017.htm) | 《中国投资》                   | 知网     | :pencil:       | 20/8/19 |
 | [**新型城镇化的发展之路**](https://v.youku.com/v_show/id_XNTYwOTI5NDYw.html) | 对话中原                   | 优酷     | :clapper:      | 20/8/19 |
 | [**中国经济八次危机及其软着陆**](https://www.bilibili.com/video/BV1ox411P7YH) | 世纪大讲堂                 | B站      | :clapper:      | 20/8/17 |
 | [**生态文明与社会进步（1-5）**](http://mooc1.chaoxing.com/course/85204.html) | 超星Mooc                   | 超星     | :clapper:      | 20/8/17 |
